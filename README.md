@@ -33,14 +33,10 @@ GitHub icon for virustotal-python:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br/>
-
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 ## GitHub Stats 📈
 
