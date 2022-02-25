@@ -38,6 +38,10 @@ GitHub icon for virustotal-python:
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Use youtube-dl to download a streamed video](https://danielbrennand.com/blog/download-streamed-video/)
+- [Interacting with the ECS S3 API using the aws-sdk/client-s3 package](https://danielbrennand.com/blog/aws-sdk-s3/)
+- [Using Cloudflare as a Dynamic DNS &lpar;DDNS&rpar; provider](https://danielbrennand.com/blog/cloudflare-ddns/)
+- [Create a blog for free using GitHub Pages and Hugo](https://danielbrennand.com/blog/blog-github-pages-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
