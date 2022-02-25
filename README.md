@@ -28,8 +28,6 @@ GitHub icon for virustotal-python:
 
 * 💬 Ask me about self-hosting on Raspberry Pis 🥧 and containerisation 🚢
 
-<br/>
-
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
