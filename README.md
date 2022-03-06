@@ -31,11 +31,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-2. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-3. 🗣 Commented on [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-4. 🎉 Merged PR [#2](https://github.com/dbrennand/twitter-stream-bot-data-gatherer/pull/2) in [dbrennand/twitter-stream-bot-data-gatherer](https://github.com/dbrennand/twitter-stream-bot-data-gatherer)
-5. 💪 Opened PR [#2](https://github.com/dbrennand/twitter-stream-bot-data-gatherer/pull/2) in [dbrennand/twitter-stream-bot-data-gatherer](https://github.com/dbrennand/twitter-stream-bot-data-gatherer)
+1. 🗣 Commented on [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+2. ❗️ Reopened issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+3. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+4. 🗣 Commented on [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+5. 🎉 Merged PR [#2](https://github.com/dbrennand/twitter-stream-bot-data-gatherer/pull/2) in [dbrennand/twitter-stream-bot-data-gatherer](https://github.com/dbrennand/twitter-stream-bot-data-gatherer)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
