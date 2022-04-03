@@ -31,9 +31,9 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/dbrennand/virustotal-python/issues/31) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-2. 🗣 Commented on [#31](https://github.com/dbrennand/virustotal-python/issues/31) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-3. ❗️ Reopened issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+1. 💪 Opened PR [#34](https://github.com/dbrennand/virustotal-python/pull/34) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+2. ❗️ Closed issue [#31](https://github.com/dbrennand/virustotal-python/issues/31) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+3. 🗣 Commented on [#31](https://github.com/dbrennand/virustotal-python/issues/31) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
 4. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 5. 🗣 Commented on [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 <!--END_SECTION:activity-->
