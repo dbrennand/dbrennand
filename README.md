@@ -17,16 +17,14 @@ Text Colour: 20, 35, 60
 
 ## About Me
 
-I'm passionate about software development, technology, security, privacy 🔐 and self-hosting. In my free time I enjoy PC gaming 👾, board games 🎲, exercising 🏃‍♂️, tinkering with Raspberry Pis 🥧 and blogging ✍
+I'm passionate about software development, technology, security, privacy 🔐 and self-hosting. In my free time I enjoy PC gaming 👾, board games 🎲, exercising 🏃‍♂️ and blogging ✍
 
 <!--
 GitHub icon for virustotal-python:
 <a href="https://github.com/dbrennand/virustotal-python" target="_blank"> <img src="https://img.shields.io/github/stars/dbrennand/virustotal-python?label=virustotal-python&style=social" alt="virustotal-python"/></a>
 -->
 
-* 🔭 I’m currently working on [virustotal-python 🐍](https://github.com/dbrennand/virustotal-python) and [PS2Alert.me 🚨](https://github.com/dbrennand/PS2Alert.me)
-
-* 💬 Ask me about self-hosting on Raspberry Pis 🥧 and containerisation 🚢
+* 💬 Ask me about self-hosting on Raspberry Pis 🥧
 
 ## Recent Activity ⚡
 
