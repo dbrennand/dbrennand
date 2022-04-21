@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-2. 🗣 Commented on [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-3. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-4. 🎉 Merged PR [#34](https://github.com/dbrennand/virustotal-python/pull/34) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. ❗️ Closed issue [#32](https://github.com/dbrennand/virustotal-python/issues/32) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+1. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
+2. ❗️ Opened issue [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
+3. ❗️ Closed issue [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+4. 🗣 Commented on [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+5. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
