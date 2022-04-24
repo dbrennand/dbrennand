@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
-2. ❗️ Opened issue [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
-3. ❗️ Closed issue [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-4. 🗣 Commented on [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
-5. ❗️ Closed issue [#3](https://github.com/dbrennand/PS2Alert.me/issues/3) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
+1. 🎉 Merged PR [#14](https://github.com/dbrennand/dbrennand.github.io/pull/14) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+2. 💪 Opened PR [#14](https://github.com/dbrennand/dbrennand.github.io/pull/14) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
+4. ❗️ Opened issue [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
+5. ❗️ Closed issue [#4](https://github.com/dbrennand/PS2Alert.me/issues/4) in [dbrennand/PS2Alert.me](https://github.com/dbrennand/PS2Alert.me)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
