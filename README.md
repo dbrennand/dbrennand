@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/plankanban/planka/issues/232) in [plankanban/planka](https://github.com/plankanban/planka)
-2. 🗣 Commented on [#421](https://github.com/influxdata/influxdata-docker/issues/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
+1. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
+2. 🗣 Commented on [#232](https://github.com/plankanban/planka/issues/232) in [plankanban/planka](https://github.com/plankanban/planka)
 3. 🗣 Commented on [#421](https://github.com/influxdata/influxdata-docker/issues/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
-4. 🎉 Merged PR [#14](https://github.com/dbrennand/dbrennand.github.io/pull/14) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-5. 💪 Opened PR [#14](https://github.com/dbrennand/dbrennand.github.io/pull/14) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+4. 🗣 Commented on [#421](https://github.com/influxdata/influxdata-docker/issues/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
+5. 🎉 Merged PR [#14](https://github.com/dbrennand/dbrennand.github.io/pull/14) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
