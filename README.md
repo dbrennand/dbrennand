@@ -32,8 +32,8 @@ GitHub icon for virustotal-python:
 1. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
 2. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
 3. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
-4. 🗣 Commented on [#232](https://github.com/plankanban/planka/issues/232) in [plankanban/planka](https://github.com/plankanban/planka)
-5. 🗣 Commented on [#421](https://github.com/influxdata/influxdata-docker/issues/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
+4. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
+5. 🗣 Commented on [#232](https://github.com/plankanban/planka/issues/232) in [plankanban/planka](https://github.com/plankanban/planka)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
