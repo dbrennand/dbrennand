@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
-2. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
-3. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
+1. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
+2. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
+3. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
 4. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
-5. 🗣 Commented on [#232](https://github.com/plankanban/planka/issues/232) in [plankanban/planka](https://github.com/plankanban/planka)
+5. 🗣 Commented on [#231](https://github.com/plankanban/planka/issues/231) in [plankanban/planka](https://github.com/plankanban/planka)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
