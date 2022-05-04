@@ -29,8 +29,8 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com/plankanban/planka/issues/238) in [plankanban/planka](https://github.com/plankanban/planka)
-2. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
+1. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
+2. 🗣 Commented on [#238](https://github.com/plankanban/planka/issues/238) in [plankanban/planka](https://github.com/plankanban/planka)
 3. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
 4. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
 5. 🗣 Commented on [#235](https://github.com/plankanban/planka/issues/235) in [plankanban/planka](https://github.com/plankanban/planka)
