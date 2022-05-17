@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+1. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
 2. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
 3. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-4. 🗣 Commented on [#66](https://github.com/microwavekonijn/ps2census/issues/66) in [microwavekonijn/ps2census](https://github.com/microwavekonijn/ps2census)
-5. ❗️ Opened issue [#66](https://github.com/microwavekonijn/ps2census/issues/66) in [microwavekonijn/ps2census](https://github.com/microwavekonijn/ps2census)
+4. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+5. 🗣 Commented on [#66](https://github.com/microwavekonijn/ps2census/issues/66) in [microwavekonijn/ps2census](https://github.com/microwavekonijn/ps2census)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
