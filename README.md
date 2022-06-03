@@ -30,8 +30,8 @@ GitHub icon for virustotal-python:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3538](https://github.com/python-poetry/poetry/issues/3538) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
-3. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+2. 🗣 Commented on [#3538](https://github.com/python-poetry/poetry/issues/3538) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
 4. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
 5. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
 <!--END_SECTION:activity-->
