@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3538](https://github.com/python-poetry/poetry/issues/3538) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#3538](https://github.com/python-poetry/poetry/issues/3538) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#1739](https://github.com/grafana/mimir/issues/1739) in [grafana/mimir](https://github.com/grafana/mimir)
-4. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-5. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+1. 🗣 Commented on [#13](https://github.com/dbrennand/RSS_Feederbot/issues/13) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
+2. 🎉 Merged PR [#12](https://github.com/dbrennand/RSS_Feederbot/pull/12) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
+3. 💪 Opened PR [#12](https://github.com/dbrennand/RSS_Feederbot/pull/12) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
+4. 🎉 Merged PR [#11](https://github.com/dbrennand/RSS_Feederbot/pull/11) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
+5. 🎉 Merged PR [#10](https://github.com/dbrennand/RSS_Feederbot/pull/10) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
