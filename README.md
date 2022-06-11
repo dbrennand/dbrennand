@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/dbrennand/RSS_Feederbot/issues/13) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
-2. 🎉 Merged PR [#12](https://github.com/dbrennand/RSS_Feederbot/pull/12) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
-3. 💪 Opened PR [#12](https://github.com/dbrennand/RSS_Feederbot/pull/12) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
-4. 🎉 Merged PR [#11](https://github.com/dbrennand/RSS_Feederbot/pull/11) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
-5. 🎉 Merged PR [#10](https://github.com/dbrennand/RSS_Feederbot/pull/10) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
+1. 🎉 Merged PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+2. 💪 Opened PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+3. 🎉 Merged PR [#14](https://github.com/dbrennand/Feederbot/pull/14) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+4. 💪 Opened PR [#14](https://github.com/dbrennand/Feederbot/pull/14) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+5. 🗣 Commented on [#13](https://github.com/dbrennand/RSS_Feederbot/issues/13) in [dbrennand/RSS_Feederbot](https://github.com/dbrennand/RSS_Feederbot)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
