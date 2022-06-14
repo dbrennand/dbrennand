@@ -30,10 +30,10 @@ GitHub icon for virustotal-python:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1196](https://github.com/dfinke/ImportExcel/issues/1196) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-2. 🎉 Merged PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-3. 💪 Opened PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-4. 🎉 Merged PR [#14](https://github.com/dbrennand/Feederbot/pull/14) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-5. 💪 Opened PR [#14](https://github.com/dbrennand/Feederbot/pull/14) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+2. 🗣 Commented on [#1196](https://github.com/dfinke/ImportExcel/issues/1196) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+3. 🎉 Merged PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+4. 💪 Opened PR [#15](https://github.com/dbrennand/Feederbot/pull/15) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+5. 🎉 Merged PR [#14](https://github.com/dbrennand/Feederbot/pull/14) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
