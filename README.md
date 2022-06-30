@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1196](https://github.com/dfinke/ImportExcel/issues/1196) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-2. 🗣 Commented on [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+1. 🗣 Commented on [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+2. 🗣 Commented on [#1196](https://github.com/dfinke/ImportExcel/issues/1196) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
 3. 🗣 Commented on [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. ❗️ Opened issue [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-5. 🗣 Commented on [#1182](https://github.com/dfinke/ImportExcel/issues/1182) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+4. 🗣 Commented on [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+5. ❗️ Opened issue [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
