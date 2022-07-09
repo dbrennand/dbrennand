@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-2. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-3. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-4. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-5. 🗣 Commented on [#206](https://github.com/lemon24/reader/issues/206) in [lemon24/reader](https://github.com/lemon24/reader)
+1. ❗️ Closed issue [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+2. 🎉 Merged PR [#17](https://github.com/dbrennand/Feederbot/pull/17) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+3. 💪 Opened PR [#17](https://github.com/dbrennand/Feederbot/pull/17) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+4. 🗣 Commented on [#206](https://github.com/lemon24/reader/issues/206) in [lemon24/reader](https://github.com/lemon24/reader)
+5. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
