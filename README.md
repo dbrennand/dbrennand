@@ -32,8 +32,8 @@ GitHub icon for virustotal-python:
 1. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
 2. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
 3. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
-4. 🗣 Commented on [#206](https://github.com/lemon24/reader/issues/206) in [lemon24/reader](https://github.com/lemon24/reader)
-5. 🗣 Commented on [#4041](https://github.com/PowerShell/vscode-powershell/issues/4041) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+4. 🗣 Commented on [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+5. 🗣 Commented on [#206](https://github.com/lemon24/reader/issues/206) in [lemon24/reader](https://github.com/lemon24/reader)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
