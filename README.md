@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2088](https://github.com/nicolargo/glances/pull/2088) in [nicolargo/glances](https://github.com/nicolargo/glances)
-2. ❗️ Opened issue [#2087](https://github.com/nicolargo/glances/issues/2087) in [nicolargo/glances](https://github.com/nicolargo/glances)
-3. 💪 Opened PR [#1214](https://github.com/dfinke/ImportExcel/pull/1214) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-4. 🗣 Commented on [#2330](https://github.com/grafana/mimir/issues/2330) in [grafana/mimir](https://github.com/grafana/mimir)
-5. ❗️ Closed issue [#16](https://github.com/dbrennand/Feederbot/issues/16) in [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot)
+1. ❗️ Opened issue [#2424](https://github.com/grafana/mimir/issues/2424) in [grafana/mimir](https://github.com/grafana/mimir)
+2. 💪 Opened PR [#2088](https://github.com/nicolargo/glances/pull/2088) in [nicolargo/glances](https://github.com/nicolargo/glances)
+3. ❗️ Opened issue [#2087](https://github.com/nicolargo/glances/issues/2087) in [nicolargo/glances](https://github.com/nicolargo/glances)
+4. 💪 Opened PR [#1214](https://github.com/dfinke/ImportExcel/pull/1214) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+5. 🗣 Commented on [#2330](https://github.com/grafana/mimir/issues/2330) in [grafana/mimir](https://github.com/grafana/mimir)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
