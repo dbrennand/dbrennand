@@ -29,10 +29,10 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/PowerShell/PowerShellGet/issues/215) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+1. 🗣 Commented on [#101](https://github.com/PowerShell/PowerShellGet/issues/101) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
 2. 🗣 Commented on [#215](https://github.com/PowerShell/PowerShellGet/issues/215) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
 3. 🗣 Commented on [#215](https://github.com/PowerShell/PowerShellGet/issues/215) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
-4. 🗣 Commented on [#246](https://github.com/lucaslorentz/caddy-docker-proxy/issues/246) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+4. 🗣 Commented on [#215](https://github.com/PowerShell/PowerShellGet/issues/215) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
 5. 🗣 Commented on [#246](https://github.com/lucaslorentz/caddy-docker-proxy/issues/246) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
 <!--END_SECTION:activity-->
 
