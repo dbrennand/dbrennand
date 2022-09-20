@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-2. 💪 Opened PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-3. 💪 Opened PR [#50](https://github.com/geerlingguy/ansible-role-pip/pull/50) in [geerlingguy/ansible-role-pip](https://github.com/geerlingguy/ansible-role-pip)
-4. ❗️ Opened issue [#49](https://github.com/geerlingguy/ansible-role-pip/issues/49) in [geerlingguy/ansible-role-pip](https://github.com/geerlingguy/ansible-role-pip)
-5. 🗣 Commented on [#101](https://github.com/PowerShell/PowerShellGet/issues/101) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+1. 🗣 Commented on [#3800](https://github.com/PowerShell/vscode-powershell/issues/3800) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+2. 🎉 Merged PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+3. 💪 Opened PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+4. 💪 Opened PR [#50](https://github.com/geerlingguy/ansible-role-pip/pull/50) in [geerlingguy/ansible-role-pip](https://github.com/geerlingguy/ansible-role-pip)
+5. ❗️ Opened issue [#49](https://github.com/geerlingguy/ansible-role-pip/issues/49) in [geerlingguy/ansible-role-pip](https://github.com/geerlingguy/ansible-role-pip)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
