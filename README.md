@@ -29,11 +29,11 @@ GitHub icon for virustotal-python:
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-2. 🗣 Commented on [#3800](https://github.com/PowerShell/vscode-powershell/issues/3800) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+1. ❗️ Opened issue [#496](https://github.com/hetzneronline/community-content/issues/496) in [hetzneronline/community-content](https://github.com/hetzneronline/community-content)
+2. ❗️ Opened issue [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 3. 🗣 Commented on [#3800](https://github.com/PowerShell/vscode-powershell/issues/3800) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. 🎉 Merged PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-5. 💪 Opened PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+4. 🗣 Commented on [#3800](https://github.com/PowerShell/vscode-powershell/issues/3800) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+5. 🎉 Merged PR [#1](https://github.com/dbrennand/mc-hetzner/pull/1) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
