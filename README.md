@@ -59,11 +59,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#443](https://github.com/ansible/ansible-language-server/issues/443) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
-2. 🎉 Merged PR [#1](https://github.com/dbrennand/dbrennand/pull/1) in [dbrennand/dbrennand](https://github.com/dbrennand/dbrennand)
-3. 💪 Opened PR [#1](https://github.com/dbrennand/dbrennand/pull/1) in [dbrennand/dbrennand](https://github.com/dbrennand/dbrennand)
-4. ❗️ Opened issue [#496](https://github.com/hetzneronline/community-content/issues/496) in [hetzneronline/community-content](https://github.com/hetzneronline/community-content)
-5. ❗️ Opened issue [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+1. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-role-autorestic/pull/1) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-role-autorestic/pull/1) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🗣 Commented on [#443](https://github.com/ansible/ansible-language-server/issues/443) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
+4. 🎉 Merged PR [#1](https://github.com/dbrennand/dbrennand/pull/1) in [dbrennand/dbrennand](https://github.com/dbrennand/dbrennand)
+5. 💪 Opened PR [#1](https://github.com/dbrennand/dbrennand/pull/1) in [dbrennand/dbrennand](https://github.com/dbrennand/dbrennand)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
