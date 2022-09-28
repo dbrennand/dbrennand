@@ -59,11 +59,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/dbrennand/mc-hetzner/issues/2) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-2. 🎉 Merged PR [#3](https://github.com/dbrennand/mc-hetzner/pull/3) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-3. 💪 Opened PR [#3](https://github.com/dbrennand/mc-hetzner/pull/3) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-4. ❗️ Opened issue [#2](https://github.com/dbrennand/mc-hetzner/issues/2) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-5. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-role-autorestic/pull/1) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+2. ❗️ Closed issue [#2](https://github.com/dbrennand/mc-hetzner/issues/2) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+3. 🎉 Merged PR [#3](https://github.com/dbrennand/mc-hetzner/pull/3) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+4. 💪 Opened PR [#3](https://github.com/dbrennand/mc-hetzner/pull/3) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+5. ❗️ Opened issue [#2](https://github.com/dbrennand/mc-hetzner/issues/2) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
