@@ -59,11 +59,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-gitpod-workspace/pull/1) in [dbrennand/ansible-gitpod-workspace](https://github.com/dbrennand/ansible-gitpod-workspace)
-2. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-gitpod-workspace/pull/1) in [dbrennand/ansible-gitpod-workspace](https://github.com/dbrennand/ansible-gitpod-workspace)
-3. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. ❗️ Closed issue [#2](https://github.com/dbrennand/mc-hetzner/issues/2) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
-5. 🎉 Merged PR [#3](https://github.com/dbrennand/mc-hetzner/pull/3) in [dbrennand/mc-hetzner](https://github.com/dbrennand/mc-hetzner)
+1. 🎉 Merged PR [#2](https://github.com/dbrennand/ansible-role-autorestic/pull/2) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 💪 Opened PR [#2](https://github.com/dbrennand/ansible-role-autorestic/pull/2) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-gitpod-workspace/pull/1) in [dbrennand/ansible-gitpod-workspace](https://github.com/dbrennand/ansible-gitpod-workspace)
+4. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-gitpod-workspace/pull/1) in [dbrennand/ansible-gitpod-workspace](https://github.com/dbrennand/ansible-gitpod-workspace)
+5. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
