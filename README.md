@@ -60,10 +60,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/dbrennand/ansible-role-autorestic/issues/3) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 💪 Opened PR [#4](https://github.com/CarloDePieri/docker-archlinux-ansible/pull/4) in [CarloDePieri/docker-archlinux-ansible](https://github.com/CarloDePieri/docker-archlinux-ansible)
-3. ❗️ Opened issue [#3](https://github.com/CarloDePieri/docker-archlinux-ansible/issues/3) in [CarloDePieri/docker-archlinux-ansible](https://github.com/CarloDePieri/docker-archlinux-ansible)
-4. 🗣 Commented on [#323](https://github.com/darkoperator/Posh-SSH/issues/323) in [darkoperator/Posh-SSH](https://github.com/darkoperator/Posh-SSH)
-5. ❗️ Closed issue [#181](https://github.com/ansible-community/molecule-docker/issues/181) in [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker)
+2. 🎉 Merged PR [#3](https://github.com/dbrennand/ansible-role-autorestic/pull/3) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🗣 Commented on [#3](https://github.com/dbrennand/ansible-role-autorestic/issues/3) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. 💪 Opened PR [#4](https://github.com/CarloDePieri/docker-archlinux-ansible/pull/4) in [CarloDePieri/docker-archlinux-ansible](https://github.com/CarloDePieri/docker-archlinux-ansible)
+5. ❗️ Opened issue [#3](https://github.com/CarloDePieri/docker-archlinux-ansible/issues/3) in [CarloDePieri/docker-archlinux-ansible](https://github.com/CarloDePieri/docker-archlinux-ansible)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
