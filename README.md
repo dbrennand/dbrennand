@@ -60,10 +60,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-2. 🗣 Commented on [#4](https://github.com/dbrennand/ansible-role-autorestic/issues/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-role-caddy-docker/pull/1) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-4. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-role-caddy-docker/pull/1) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-5. 🗣 Commented on [#3](https://github.com/dbrennand/ansible-role-autorestic/issues/3) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+3. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+4. 🗣 Commented on [#4](https://github.com/dbrennand/ansible-role-autorestic/issues/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-role-caddy-docker/pull/1) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
