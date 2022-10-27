@@ -59,10 +59,10 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/dbrennand/ansible-role-autorestic/issues/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 🎉 Merged PR [#4](https://github.com/dbrennand/ansible-role-autorestic/pull/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. ❗️ Closed issue [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-4. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
+1. 💪 Opened PR [#250](https://github.com/cupcakearmy/autorestic/pull/250) in [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic)
+2. 🗣 Commented on [#4](https://github.com/dbrennand/ansible-role-autorestic/issues/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🎉 Merged PR [#4](https://github.com/dbrennand/ansible-role-autorestic/pull/4) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. ❗️ Closed issue [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 5. 🗣 Commented on [#4177](https://github.com/PowerShell/vscode-powershell/issues/4177) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
 <!--END_SECTION:activity-->
 
