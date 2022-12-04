@@ -59,11 +59,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/dbrennand/ansible-role-caddy-docker/issues/4) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-2. 🎉 Merged PR [#3](https://github.com/dbrennand/ansible-role-caddy-docker/pull/3) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-3. 💪 Opened PR [#3](https://github.com/dbrennand/ansible-role-caddy-docker/pull/3) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-4. 🗣 Commented on [#35](https://github.com/dbrennand/virustotal-python/issues/35) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 🗣 Commented on [#5](https://github.com/dbrennand/ansible-role-autorestic/issues/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. ❗️ Closed issue [#4](https://github.com/dbrennand/ansible-role-caddy-docker/issues/4) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+2. 🎉 Merged PR [#5](https://github.com/dbrennand/ansible-role-caddy-docker/pull/5) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+3. 💪 Opened PR [#5](https://github.com/dbrennand/ansible-role-caddy-docker/pull/5) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+4. ❗️ Opened issue [#4](https://github.com/dbrennand/ansible-role-caddy-docker/issues/4) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+5. 🎉 Merged PR [#3](https://github.com/dbrennand/ansible-role-caddy-docker/pull/3) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
