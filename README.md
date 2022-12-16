@@ -23,11 +23,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/dbrennand/ansible-role-autorestic/issues/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 🎉 Merged PR [#5](https://github.com/dbrennand/ansible-role-autorestic/pull/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. ❌ Closed PR [#421](https://github.com/influxdata/influxdata-docker/pull/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
+2. ❌ Closed PR [#6](https://github.com/dandv/convert-chrome-cookies-to-netscape-format/pull/6) in [dandv/convert-chrome-cookies-to-netscape-format](https://github.com/dandv/convert-chrome-cookies-to-netscape-format)
 3. 🗣 Commented on [#5](https://github.com/dbrennand/ansible-role-autorestic/issues/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-4. 🎉 Merged PR [#37](https://github.com/dbrennand/virustotal-python/pull/37) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 💪 Opened PR [#37](https://github.com/dbrennand/virustotal-python/pull/37) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+4. 🎉 Merged PR [#5](https://github.com/dbrennand/ansible-role-autorestic/pull/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🗣 Commented on [#5](https://github.com/dbrennand/ansible-role-autorestic/issues/5) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
