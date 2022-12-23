@@ -33,8 +33,8 @@
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: Storing Credentials Securely](https://danielbrennand.com/blog/powershell-storing-credentials/)
 - [Using Git Hooks to lint PowerShell](https://danielbrennand.com/blog/git-hook-powershell/)
 - [Use youtube-dl to download a streamed video](https://danielbrennand.com/blog/download-streamed-video/)
 - [Interacting with the ECS S3 API using the aws-sdk/client-s3 package](https://danielbrennand.com/blog/aws-sdk-s3/)
-- [Using Cloudflare as a Dynamic DNS &lpar;DDNS&rpar; provider](https://danielbrennand.com/blog/cloudflare-ddns/)
 <!-- BLOG-POST-LIST:END -->
