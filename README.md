@@ -23,11 +23,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 🎉 Merged PR [#15](https://github.com/dbrennand/dbrennand.github.io/pull/15) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-4. 💪 Opened PR [#15](https://github.com/dbrennand/dbrennand.github.io/pull/15) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-5. ❌ Closed PR [#421](https://github.com/influxdata/influxdata-docker/pull/421) in [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker)
+1. 🗣 Commented on [#5575](https://github.com/jellyfin/jellyfin/issues/5575) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🎉 Merged PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 💪 Opened PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+4. 🎉 Merged PR [#15](https://github.com/dbrennand/dbrennand.github.io/pull/15) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+5. 💪 Opened PR [#15](https://github.com/dbrennand/dbrennand.github.io/pull/15) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
