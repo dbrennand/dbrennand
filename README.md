@@ -23,11 +23,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-wsl/pull/1) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
-2. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-wsl/pull/1) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
-3. 🗣 Commented on [#5575](https://github.com/jellyfin/jellyfin/issues/5575) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-4. 🎉 Merged PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-5. 💪 Opened PR [#16](https://github.com/dbrennand/dbrennand.github.io/pull/16) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+1. 🗣 Commented on [#175](https://github.com/geerlingguy/mac-dev-playbook/issues/175) in [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)
+2. ❌ Closed PR [#175](https://github.com/geerlingguy/mac-dev-playbook/pull/175) in [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)
+3. 💪 Opened PR [#175](https://github.com/geerlingguy/mac-dev-playbook/pull/175) in [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)
+4. 🎉 Merged PR [#1](https://github.com/dbrennand/ansible-wsl/pull/1) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
+5. 💪 Opened PR [#1](https://github.com/dbrennand/ansible-wsl/pull/1) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
