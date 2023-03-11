@@ -33,8 +33,8 @@
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Ansible](https://danielbrennand.com/blog/getting-started-ansible/)
 - [PowerShell: Storing Credentials Securely](https://danielbrennand.com/blog/powershell-storing-credentials/)
 - [Using Git Hooks to lint PowerShell](https://danielbrennand.com/blog/git-hook-powershell/)
 - [Use youtube-dl to download a streamed video](https://danielbrennand.com/blog/download-streamed-video/)
-- [Interacting with the ECS S3 API using the aws-sdk/client-s3 package](https://danielbrennand.com/blog/aws-sdk-s3/)
 <!-- BLOG-POST-LIST:END -->
