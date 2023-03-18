@@ -23,11 +23,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 🗣 Commented on [#10](https://github.com/geerlingguy/docker-ubuntu2004-ansible/issues/10) in [geerlingguy/docker-ubuntu2004-ansible](https://github.com/geerlingguy/docker-ubuntu2004-ansible)
-3. 🗣 Commented on [#112](https://github.com/geerlingguy/ansible-role-security/issues/112) in [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security)
-4. 💪 Opened PR [#202](https://github.com/PyratLabs/ansible-role-k3s/pull/202) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-5. 🗣 Commented on [#201](https://github.com/PyratLabs/ansible-role-k3s/issues/201) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+1. ❗️ Closed issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 💪 Opened PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. ❗️ Opened issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
