@@ -23,11 +23,11 @@
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. 💪 Opened PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-4. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-5. ❗️ Opened issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#969](https://github.com/PowerShell/PowerShellGet/issues/969) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+2. ❗️ Closed issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. 💪 Opened PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
