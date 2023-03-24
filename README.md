@@ -1,13 +1,8 @@
 # Hi 👋, I'm Daniel Brennand 👨‍💻
 
-<a href="https://twitter.com/dbrenuk" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dbrenuk" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-bottom: 5px;" />
-</a>
+I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and developing open source software.
 
-🛠 I'm a Service Delivery Engineer passionate about DevOps, self-hosting and developing open source software. I enjoy sharing knowledge with others on my [blog](https://danielbrennand.com/blog/), and when I'm not coding I enjoy PC gaming 👾, board games 🎲 and swimming 🏊‍♂️
+I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with others, and I'm always looking for new opportunities to learn and grow.
 
 ## GitHub Stats 📈
 
