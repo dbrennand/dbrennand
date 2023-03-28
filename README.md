@@ -8,10 +8,10 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 
 <p>
     <a align="left" href="https://github.com/dbrennand/dbrennand">
-        <img alt="dbrennand's GitHub Stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=dbrennand&show_icons=true&count_private=true&hide_border=true&theme=dark">
+        <img alt="dbrennand's GitHub Stats"  width="54%" src="https://github-readme-stats-dbrennand.vercel.app/api?username=dbrennand&show_icons=true&count_private=true&hide_border=true&theme=dark">
     </a>
     <a align="right" href="https://github.com/dbrennand/dbrennand">
-        <img alt="dbrennand's GitHub Stats"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbrennand&hide_border=true&layout=compact&theme=dark">
+        <img alt="dbrennand's GitHub Stats"  width="45%" src="https://github-readme-stats-dbrennand.vercel.app/api/top-langs/?username=dbrennand&hide_border=true&layout=compact&theme=dark">
     </a>
 </p>
 
