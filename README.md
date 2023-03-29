@@ -19,10 +19,10 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-2. 🗣 Commented on [#969](https://github.com/PowerShell/PowerShellGet/issues/969) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
-3. ❗️ Closed issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-4. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-5. 💪 Opened PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+3. 🗣 Commented on [#969](https://github.com/PowerShell/PowerShellGet/issues/969) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+4. ❗️ Closed issue [#6](https://github.com/dbrennand/ansible-role-autorestic/issues/6) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-autorestic/pull/7) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
