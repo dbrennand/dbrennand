@@ -18,11 +18,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/geerlingguy/docker-ubuntu2204-ansible/issues/9) in [geerlingguy/docker-ubuntu2204-ansible](https://github.com/geerlingguy/docker-ubuntu2204-ansible)
-2. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-3. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+1. 🎉 Merged PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+2. 💪 Opened PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+3. 🗣 Commented on [#9](https://github.com/geerlingguy/docker-ubuntu2204-ansible/issues/9) in [geerlingguy/docker-ubuntu2204-ansible](https://github.com/geerlingguy/docker-ubuntu2204-ansible)
 4. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 🗣 Commented on [#969](https://github.com/PowerShell/PowerShellGet/issues/969) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+5. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
