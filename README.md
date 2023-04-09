@@ -18,11 +18,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-2. 💪 Opened PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-3. 🗣 Commented on [#9](https://github.com/geerlingguy/docker-ubuntu2204-ansible/issues/9) in [geerlingguy/docker-ubuntu2204-ansible](https://github.com/geerlingguy/docker-ubuntu2204-ansible)
-4. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+1. 🎉 Merged PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+2. 💪 Opened PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 🎉 Merged PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+4. 💪 Opened PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+5. 🗣 Commented on [#9](https://github.com/geerlingguy/docker-ubuntu2204-ansible/issues/9) in [geerlingguy/docker-ubuntu2204-ansible](https://github.com/geerlingguy/docker-ubuntu2204-ansible)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
