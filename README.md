@@ -18,11 +18,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1825](https://github.com/winstonjs/winston/issues/1825) in [winstonjs/winston](https://github.com/winstonjs/winston)
-2. 🗣 Commented on [#5](https://github.com/BytesGuy/arm-base-boxes/issues/5) in [BytesGuy/arm-base-boxes](https://github.com/BytesGuy/arm-base-boxes)
-3. 🎉 Merged PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-4. 💪 Opened PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-5. 🎉 Merged PR [#6](https://github.com/dbrennand/ansible-role-caddy-docker/pull/6) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+1. 🗣 Commented on [#6](https://github.com/BytesGuy/arm-base-boxes/issues/6) in [BytesGuy/arm-base-boxes](https://github.com/BytesGuy/arm-base-boxes)
+2. 🗣 Commented on [#1825](https://github.com/winstonjs/winston/issues/1825) in [winstonjs/winston](https://github.com/winstonjs/winston)
+3. 🗣 Commented on [#5](https://github.com/BytesGuy/arm-base-boxes/issues/5) in [BytesGuy/arm-base-boxes](https://github.com/BytesGuy/arm-base-boxes)
+4. 🎉 Merged PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+5. 💪 Opened PR [#18](https://github.com/dbrennand/dbrennand.github.io/pull/18) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
