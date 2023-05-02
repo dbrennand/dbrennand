@@ -19,10 +19,10 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#201](https://github.com/PyratLabs/ansible-role-k3s/issues/201) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-2. 🎉 Merged PR [#3](https://github.com/dbrennand/ansible-wsl/pull/3) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
-3. 💪 Opened PR [#3](https://github.com/dbrennand/ansible-wsl/pull/3) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
-4. 🎉 Merged PR [#2](https://github.com/dbrennand/ansible-wsl/pull/2) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
-5. 💪 Opened PR [#2](https://github.com/dbrennand/ansible-wsl/pull/2) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
+2. 🗣 Commented on [#201](https://github.com/PyratLabs/ansible-role-k3s/issues/201) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+3. 🎉 Merged PR [#3](https://github.com/dbrennand/ansible-wsl/pull/3) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
+4. 💪 Opened PR [#3](https://github.com/dbrennand/ansible-wsl/pull/3) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
+5. 🎉 Merged PR [#2](https://github.com/dbrennand/ansible-wsl/pull/2) in [dbrennand/ansible-wsl](https://github.com/dbrennand/ansible-wsl)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
