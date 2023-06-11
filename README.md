@@ -18,11 +18,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/caddyserver/caddy-docker/issues/289) in [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker)
-2. 🗣 Commented on [#202](https://github.com/PyratLabs/ansible-role-k3s/issues/202) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+1. 🗣 Commented on [#41](https://github.com/dbrennand/virustotal-python/issues/41) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+2. 🗣 Commented on [#289](https://github.com/caddyserver/caddy-docker/issues/289) in [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker)
 3. 🗣 Commented on [#202](https://github.com/PyratLabs/ansible-role-k3s/issues/202) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-4. 🗣 Commented on [#4](https://github.com/fspoettel/linkding-on-fly/issues/4) in [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly)
-5. 💪 Opened PR [#4](https://github.com/fspoettel/linkding-on-fly/pull/4) in [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly)
+4. 🗣 Commented on [#202](https://github.com/PyratLabs/ansible-role-k3s/issues/202) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+5. 🗣 Commented on [#4](https://github.com/fspoettel/linkding-on-fly/issues/4) in [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
