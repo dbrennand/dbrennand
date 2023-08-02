@@ -21,8 +21,8 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Ansible Content with Molecule](https://danielbrennand.com/blog/testing-ansible-content/)
 - [Managing Secrets in Ansible](https://danielbrennand.com/blog/managing-secrets-in-ansible/)
 - [Getting started with Ansible](https://danielbrennand.com/blog/getting-started-ansible/)
 - [PowerShell: Storing Credentials Securely](https://danielbrennand.com/blog/powershell-storing-credentials/)
-- [Using Git Hooks to lint PowerShell](https://danielbrennand.com/blog/git-hook-powershell/)
 <!-- BLOG-POST-LIST:END -->
