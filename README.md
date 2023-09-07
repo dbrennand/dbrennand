@@ -11,11 +11,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/dbrennand/ansible-role-caddy-docker/issues/7) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-2. 🎉 Merged PR [#8](https://github.com/dbrennand/ansible-role-caddy-docker/pull/8) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-3. 💪 Opened PR [#8](https://github.com/dbrennand/ansible-role-caddy-docker/pull/8) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-4. ❗ Opened issue [#7](https://github.com/dbrennand/ansible-role-caddy-docker/issues/7) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-5. 🗣 Commented on [#40](https://github.com/dbrennand/virustotal-python/issues/40#issuecomment-1683352950) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+1. 💪 Opened PR [#10](https://github.com/dbrennand/speeder/pull/10) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+2. 🔒 Closed issue [#7](https://github.com/dbrennand/ansible-role-caddy-docker/issues/7) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+3. 🎉 Merged PR [#8](https://github.com/dbrennand/ansible-role-caddy-docker/pull/8) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+4. 💪 Opened PR [#8](https://github.com/dbrennand/ansible-role-caddy-docker/pull/8) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+5. ❗ Opened issue [#7](https://github.com/dbrennand/ansible-role-caddy-docker/issues/7) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
