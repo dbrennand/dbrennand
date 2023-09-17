@@ -11,11 +11,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/dbrennand/dbrennand.github.io/pull/20) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#20](https://github.com/dbrennand/dbrennand.github.io/pull/20) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 🚀 Published release [v1.1.0](https://github.com/dbrennand/speeder/releases/tag/v1.1.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-4. 🎉 Merged PR [#10](https://github.com/dbrennand/speeder/pull/10) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-5. 💪 Opened PR [#10](https://github.com/dbrennand/speeder/pull/10) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+1. ❗ Opened issue [#414](https://github.com/imapsync/imapsync/issues/414) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
+2. 🎉 Merged PR [#20](https://github.com/dbrennand/dbrennand.github.io/pull/20) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 💪 Opened PR [#20](https://github.com/dbrennand/dbrennand.github.io/pull/20) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+4. 🚀 Published release [v1.1.0](https://github.com/dbrennand/speeder/releases/tag/v1.1.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. 🎉 Merged PR [#10](https://github.com/dbrennand/speeder/pull/10) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
