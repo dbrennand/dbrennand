@@ -11,11 +11,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/dbrennand/virustotal-python/issues/42#issuecomment-1732555389) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-2. 🔒 Closed issue [#414](https://github.com/imapsync/imapsync/issues/414) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
-3. 🗣 Commented on [#414](https://github.com/imapsync/imapsync/issues/414#issuecomment-1726603808) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
-4. ❗ Opened issue [#414](https://github.com/imapsync/imapsync/issues/414) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
-5. 🎉 Merged PR [#20](https://github.com/dbrennand/dbrennand.github.io/pull/20) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+1. 🗣 Commented on [#42](https://github.com/dbrennand/virustotal-python/issues/42#issuecomment-1732598845) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+2. 🗣 Commented on [#42](https://github.com/dbrennand/virustotal-python/issues/42#issuecomment-1732555389) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+3. 🔒 Closed issue [#414](https://github.com/imapsync/imapsync/issues/414) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
+4. 🗣 Commented on [#414](https://github.com/imapsync/imapsync/issues/414#issuecomment-1726603808) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
+5. ❗ Opened issue [#414](https://github.com/imapsync/imapsync/issues/414) in [imapsync/imapsync](https://github.com/imapsync/imapsync)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
