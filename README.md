@@ -11,11 +11,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/geerlingguy/ansible-role-security/pull/112#issuecomment-1778595416) in [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security)
-2. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-1771047401) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-3. 🗣 Commented on [#112](https://github.com/geerlingguy/ansible-role-security/pull/112#issuecomment-1757051629) in [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security)
-4. 🗣 Commented on [#224](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper/pull/224#issuecomment-1736329232) in [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
-5. 🗣 Commented on [#180](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper/issues/180#issuecomment-1734006002) in [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+1. 🎉 Merged PR [#21](https://github.com/dbrennand/dbrennand.github.io/pull/21) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+2. 💪 Opened PR [#21](https://github.com/dbrennand/dbrennand.github.io/pull/21) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 🗣 Commented on [#112](https://github.com/geerlingguy/ansible-role-security/pull/112#issuecomment-1778595416) in [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security)
+4. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-1771047401) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. 🗣 Commented on [#112](https://github.com/geerlingguy/ansible-role-security/pull/112#issuecomment-1757051629) in [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
