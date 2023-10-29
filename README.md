@@ -21,8 +21,8 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Google Workspace and Outlook Mail to iCloud+](https://danielbrennand.com/blog/google-outlook-to-icloud+/)
 - [Build and Publish Container Images using GitHub Actions](https://danielbrennand.com/blog/build-and-publish-container-image-gha/)
 - [Testing Ansible Content with Molecule](https://danielbrennand.com/blog/testing-ansible-content/)
 - [Managing Secrets in Ansible](https://danielbrennand.com/blog/managing-secrets-in-ansible/)
-- [Getting started with Ansible](https://danielbrennand.com/blog/getting-started-ansible/)
 <!-- BLOG-POST-LIST:END -->
