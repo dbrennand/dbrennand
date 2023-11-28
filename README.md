@@ -11,11 +11,11 @@ I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with o
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/1Password/terraform-provider-onepassword/pull/99#issuecomment-1817930818) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-2. 🗣 Commented on [#99](https://github.com/1Password/terraform-provider-onepassword/pull/99#issuecomment-1817880811) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-3. 🔒 Closed issue [#11](https://github.com/dbrennand/speeder/issues/11) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-4. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-1793831352) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-5. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-1793737792) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+1. 🗣 Commented on [#79](https://github.com/1Password/terraform-provider-onepassword/issues/79#issuecomment-1830868873) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+2. 🗣 Commented on [#99](https://github.com/1Password/terraform-provider-onepassword/pull/99#issuecomment-1817930818) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+3. 🗣 Commented on [#99](https://github.com/1Password/terraform-provider-onepassword/pull/99#issuecomment-1817880811) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+4. 🔒 Closed issue [#11](https://github.com/dbrennand/speeder/issues/11) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-1793831352) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
