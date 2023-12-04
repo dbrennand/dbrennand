@@ -1,8 +1,6 @@
 # Hi 👋, I'm Daniel Brennand 👨‍💻
 
-I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and developing open source software.
-
-I have a [blog](https://danielbrennand.com/blog/) where I share knowledge with others, and I'm always looking for new opportunities to learn and grow.
+I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and developing open source software. I'm always looking for new opportunities to learn and grow 🌱
 
 ## GitHub Stats 📈
 
