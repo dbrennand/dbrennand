@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-2. 🔒 Closed issue [#5](https://github.com/dbrennand/home-ops/issues/5) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. ❗ Opened issue [#5](https://github.com/dbrennand/home-ops/issues/5) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#356](https://github.com/artis3n/ansible-role-tailscale/issues/356#issuecomment-1878749308) in [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale)
-5. 🗣 Commented on [#3](https://github.com/dbrennand/home-ops/issues/3#issuecomment-1877470621) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🎉 Merged PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+2. 💪 Opened PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+3. 🔒 Closed issue [#5](https://github.com/dbrennand/home-ops/issues/5) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ❗ Opened issue [#5](https://github.com/dbrennand/home-ops/issues/5) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#356](https://github.com/artis3n/ansible-role-tailscale/issues/356#issuecomment-1878749308) in [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
