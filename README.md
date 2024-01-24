@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/dbrennand/home-ops/issues/6) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. ❗ Opened issue [#10](https://github.com/dbrennand/ansible-role-autorestic/issues/10) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. 🎉 Merged PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-4. 💪 Opened PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-5. 🔒 Closed issue [#5](https://github.com/dbrennand/home-ops/issues/5) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🔒 Closed issue [#6](https://github.com/dbrennand/home-ops/issues/6) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#6](https://github.com/dbrennand/home-ops/issues/6#issuecomment-1908583104) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. ❗ Opened issue [#6](https://github.com/dbrennand/home-ops/issues/6) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ❗ Opened issue [#10](https://github.com/dbrennand/ansible-role-autorestic/issues/10) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🎉 Merged PR [#9](https://github.com/dbrennand/ansible-role-caddy-docker/pull/9) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
