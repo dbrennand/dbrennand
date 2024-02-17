@@ -19,8 +19,8 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Proxmox USB Disconnects](https://danielbrennand.com/blog/proxmox-fix-usb-disconnect/)
 - [Migrating from Google Workspace and Outlook Mail to iCloud+](https://danielbrennand.com/blog/google-outlook-to-icloud+/)
 - [Build and Publish Container Images using GitHub Actions](https://danielbrennand.com/blog/build-and-publish-container-image-gha/)
 - [Testing Ansible Content with Molecule](https://danielbrennand.com/blog/testing-ansible-content/)
-- [Managing Secrets in Ansible](https://danielbrennand.com/blog/managing-secrets-in-ansible/)
 <!-- BLOG-POST-LIST:END -->
