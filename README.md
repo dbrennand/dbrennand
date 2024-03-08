@@ -4,7 +4,7 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 
 ## GitHub Stats 📈
 
-[![Daniel's GitHub Stats](https://github-readme-stats-dbrennand.vercel.app/api?username=dbrennand&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbrennand&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity ⚡
 
