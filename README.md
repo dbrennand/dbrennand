@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21281](https://github.com/PowerShell/PowerShell/issues/21281#issuecomment-2056442782) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-2. ❗ Opened issue [#1587](https://github.com/dfinke/ImportExcel/issues/1587) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-3. ❗ Opened issue [#10](https://github.com/dbrennand/home-ops/issues/10) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12#issuecomment-2040325858) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-5. ❗ Opened issue [#9](https://github.com/dbrennand/home-ops/issues/9) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#1587](https://github.com/dfinke/ImportExcel/issues/1587#issuecomment-2060642256) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+2. 🗣 Commented on [#21281](https://github.com/PowerShell/PowerShell/issues/21281#issuecomment-2056442782) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+3. ❗ Opened issue [#1587](https://github.com/dfinke/ImportExcel/issues/1587) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+4. ❗ Opened issue [#10](https://github.com/dbrennand/home-ops/issues/10) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12#issuecomment-2040325858) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
