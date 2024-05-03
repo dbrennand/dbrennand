@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/dbrennand/home-ops/issues/11) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🗣 Commented on [#9](https://github.com/dbrennand/home-ops/issues/9#issuecomment-2088090620) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#9](https://github.com/dbrennand/home-ops/issues/9) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🔓 Reopened issue [#2](https://github.com/dbrennand/home-ops/issues/2) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12#issuecomment-2068057721) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#165](https://github.com/1Password/terraform-provider-onepassword/issues/165#issuecomment-2092516573) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+2. ❗ Opened issue [#165](https://github.com/1Password/terraform-provider-onepassword/issues/165) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+3. ❗ Opened issue [#11](https://github.com/dbrennand/home-ops/issues/11) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🗣 Commented on [#9](https://github.com/dbrennand/home-ops/issues/9#issuecomment-2088090620) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🔒 Closed issue [#9](https://github.com/dbrennand/home-ops/issues/9) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
