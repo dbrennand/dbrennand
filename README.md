@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/1Password/terraform-provider-onepassword/issues/165#issuecomment-2092516573) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-2. ❗ Opened issue [#165](https://github.com/1Password/terraform-provider-onepassword/issues/165) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-3. ❗ Opened issue [#11](https://github.com/dbrennand/home-ops/issues/11) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#9](https://github.com/dbrennand/home-ops/issues/9#issuecomment-2088090620) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#9](https://github.com/dbrennand/home-ops/issues/9) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#11](https://github.com/dbrennand/home-ops/issues/11#issuecomment-2094835874) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#11](https://github.com/dbrennand/home-ops/issues/11) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🗣 Commented on [#2](https://github.com/dbrennand/home-ops/issues/2#issuecomment-2094835758) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🔒 Closed issue [#2](https://github.com/dbrennand/home-ops/issues/2) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
