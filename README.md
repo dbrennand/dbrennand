@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/dbrennand/ansible-role-autorestic/pull/13) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-2. 🗣 Commented on [#13](https://github.com/dbrennand/ansible-role-autorestic/pull/13#issuecomment-2118820916) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. ❗ Opened issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#11](https://github.com/dbrennand/home-ops/issues/11#issuecomment-2094835874) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#11](https://github.com/dbrennand/home-ops/issues/11) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 💪 Opened PR [#43](https://github.com/dbrennand/virustotal-python/pull/43) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+2. 🎉 Merged PR [#13](https://github.com/dbrennand/ansible-role-autorestic/pull/13) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🗣 Commented on [#13](https://github.com/dbrennand/ansible-role-autorestic/pull/13#issuecomment-2118820916) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. ❗ Opened issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#11](https://github.com/dbrennand/home-ops/issues/11#issuecomment-2094835874) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
