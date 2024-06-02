@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1587](https://github.com/dfinke/ImportExcel/issues/1587#issuecomment-2132389673) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
-2. 🚀 Published release [1.1.0](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.0) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-3. 🎉 Merged PR [#43](https://github.com/dbrennand/virustotal-python/pull/43) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-4. 💪 Opened PR [#43](https://github.com/dbrennand/virustotal-python/pull/43) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 🎉 Merged PR [#13](https://github.com/dbrennand/ansible-role-autorestic/pull/13) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12#issuecomment-2143805780) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🗣 Commented on [#1587](https://github.com/dfinke/ImportExcel/issues/1587#issuecomment-2132389673) in [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel)
+3. 🚀 Published release [1.1.0](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.0) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+4. 🎉 Merged PR [#43](https://github.com/dbrennand/virustotal-python/pull/43) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+5. 💪 Opened PR [#43](https://github.com/dbrennand/virustotal-python/pull/43) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
