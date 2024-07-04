@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1429](https://github.com/ansible/awx-operator/issues/1429#issuecomment-2202362691) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-2. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12#issuecomment-2198743696) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. 🗣 Commented on [#14](https://github.com/dbrennand/ansible-role-autorestic/issues/14#issuecomment-2198313786) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-4. 🗣 Commented on [#2839](https://github.com/thanos-io/thanos/issues/2839#issuecomment-2195125527) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. 🗣 Commented on [#14](https://github.com/dbrennand/ansible-role-autorestic/issues/14#issuecomment-2195109186) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#8](https://github.com/dbrennand/home-ops/issues/8#issuecomment-2209019837) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🔒 Closed issue [#8](https://github.com/dbrennand/home-ops/issues/8) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🔒 Closed issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#1429](https://github.com/ansible/awx-operator/issues/1429#issuecomment-2202362691) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
