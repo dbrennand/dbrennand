@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1654](https://github.com/ansible/awx-operator/pull/1654#issuecomment-2210566887) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-2. 🗣 Commented on [#1654](https://github.com/ansible/awx-operator/pull/1654#issuecomment-2210304267) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-3. 🗣 Commented on [#8](https://github.com/dbrennand/home-ops/issues/8#issuecomment-2209019837) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🔒 Closed issue [#8](https://github.com/dbrennand/home-ops/issues/8) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#12](https://github.com/dbrennand/home-ops/issues/12) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#14](https://github.com/dbrennand/ansible-role-autorestic/issues/14#issuecomment-2211722911) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🗣 Commented on [#1654](https://github.com/ansible/awx-operator/pull/1654#issuecomment-2210566887) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+3. 🗣 Commented on [#1654](https://github.com/ansible/awx-operator/pull/1654#issuecomment-2210304267) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+4. 🗣 Commented on [#8](https://github.com/dbrennand/home-ops/issues/8#issuecomment-2209019837) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🔒 Closed issue [#8](https://github.com/dbrennand/home-ops/issues/8) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
