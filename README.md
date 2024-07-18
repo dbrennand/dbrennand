@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/netbox-community/netbox-chart/issues/220#issuecomment-2231087845) in [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart)
-2. 💪 Opened PR [#1918](https://github.com/ansible/awx-operator/pull/1918) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-3. 🎉 Merged PR [#32](https://github.com/dbrennand/home-ops/pull/32) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#33](https://github.com/dbrennand/home-ops/pull/33) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 💪 Opened PR [#4253](https://github.com/ansible/ansible-lint/pull/4253) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
+1. 🎉 Merged PR [#36](https://github.com/dbrennand/home-ops/pull/36) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#220](https://github.com/netbox-community/netbox-chart/issues/220#issuecomment-2231087845) in [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart)
+3. 💪 Opened PR [#1918](https://github.com/ansible/awx-operator/pull/1918) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+4. 🎉 Merged PR [#32](https://github.com/dbrennand/home-ops/pull/32) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#33](https://github.com/dbrennand/home-ops/pull/33) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
