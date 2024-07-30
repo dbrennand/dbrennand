@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/dbrennand/dbrennand.github.io/pull/23) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#23](https://github.com/dbrennand/dbrennand.github.io/pull/23) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 🎉 Merged PR [#36](https://github.com/dbrennand/home-ops/pull/36) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#220](https://github.com/netbox-community/netbox-chart/issues/220#issuecomment-2231087845) in [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart)
-5. 💪 Opened PR [#1918](https://github.com/ansible/awx-operator/pull/1918) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+1. 🔒 Closed issue [#14](https://github.com/dbrennand/ansible-role-autorestic/issues/14) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🔒 Closed issue [#12](https://github.com/dbrennand/ansible-role-autorestic/issues/12) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🎉 Merged PR [#15](https://github.com/dbrennand/ansible-role-autorestic/pull/15) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. 💪 Opened PR [#15](https://github.com/dbrennand/ansible-role-autorestic/pull/15) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🎉 Merged PR [#37](https://github.com/dbrennand/home-ops/pull/37) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
