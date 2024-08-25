@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/dbrennand/speeder/pull/12) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-2. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-2308956400) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-3. 🎉 Merged PR [#43](https://github.com/dbrennand/home-ops/pull/43) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#42](https://github.com/dbrennand/home-ops/pull/42) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#41](https://github.com/dbrennand/home-ops/pull/41) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#8](https://github.com/dbrennand/ansible-role-autorestic/issues/8#issuecomment-2308960721) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+2. 🔒 Closed issue [#8](https://github.com/dbrennand/ansible-role-autorestic/issues/8) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 💪 Opened PR [#12](https://github.com/dbrennand/speeder/pull/12) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+4. 🗣 Commented on [#11](https://github.com/dbrennand/speeder/issues/11#issuecomment-2308956400) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. 🎉 Merged PR [#43](https://github.com/dbrennand/home-ops/pull/43) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
