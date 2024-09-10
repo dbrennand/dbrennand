@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/dbrennand/home-ops/pull/47) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🚀 Published release [1.2.0](https://github.com/dbrennand/speeder/releases/tag/1.2.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-3. 🚀 Published release [1.2.0](https://github.com/dbrennand/speeder/releases/tag/1.2.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-4. 🎉 Merged PR [#12](https://github.com/dbrennand/speeder/pull/12) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-5. 🎉 Merged PR [#46](https://github.com/dbrennand/home-ops/pull/46) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🎉 Merged PR [#50](https://github.com/dbrennand/home-ops/pull/50) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#49](https://github.com/dbrennand/home-ops/pull/49) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#48](https://github.com/dbrennand/home-ops/pull/48) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#47](https://github.com/dbrennand/home-ops/pull/47) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🚀 Published release [1.2.0](https://github.com/dbrennand/speeder/releases/tag/1.2.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
