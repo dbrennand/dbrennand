@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/PyratLabs/ansible-role-k3s/issues/227#issuecomment-2376157635) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-2. 🗣 Commented on [#228](https://github.com/PyratLabs/ansible-role-k3s/issues/228#issuecomment-2376143800) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-3. 🗣 Commented on [#228](https://github.com/PyratLabs/ansible-role-k3s/issues/228#issuecomment-2376126510) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-4. ❌ Closed PR [#56](https://github.com/dbrennand/home-ops/pull/56) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#58](https://github.com/dbrennand/home-ops/pull/58) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🎉 Merged PR [#24](https://github.com/dbrennand/dbrennand.github.io/pull/24) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+2. 💪 Opened PR [#24](https://github.com/dbrennand/dbrennand.github.io/pull/24) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 🗣 Commented on [#227](https://github.com/PyratLabs/ansible-role-k3s/issues/227#issuecomment-2376157635) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+4. 🗣 Commented on [#228](https://github.com/PyratLabs/ansible-role-k3s/issues/228#issuecomment-2376143800) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+5. 🗣 Commented on [#228](https://github.com/PyratLabs/ansible-role-k3s/issues/228#issuecomment-2376126510) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
