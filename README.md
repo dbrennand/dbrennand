@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/1Password/terraform-provider-onepassword/issues/165#issuecomment-2389101775) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-2. 🎉 Merged PR [#24](https://github.com/dbrennand/dbrennand.github.io/pull/24) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 💪 Opened PR [#24](https://github.com/dbrennand/dbrennand.github.io/pull/24) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-4. 🗣 Commented on [#227](https://github.com/PyratLabs/ansible-role-k3s/issues/227#issuecomment-2376157635) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-5. 🗣 Commented on [#228](https://github.com/PyratLabs/ansible-role-k3s/issues/228#issuecomment-2376143800) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+1. 🎉 Merged PR [#64](https://github.com/dbrennand/home-ops/pull/64) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#62](https://github.com/dbrennand/home-ops/pull/62) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#61](https://github.com/dbrennand/home-ops/pull/61) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#60](https://github.com/dbrennand/home-ops/pull/60) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❌ Closed PR [#59](https://github.com/dbrennand/home-ops/pull/59) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
