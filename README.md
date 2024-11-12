@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
-2. 💪 Opened PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
-3. 🗣 Commented on [#89](https://github.com/ansible-community/ansible-london-meetup/issues/89#issuecomment-2457183340) in [ansible-community/ansible-london-meetup](https://github.com/ansible-community/ansible-london-meetup)
-4. 🎉 Merged PR [#81](https://github.com/dbrennand/home-ops/pull/81) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#80](https://github.com/dbrennand/home-ops/pull/80) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#4398](https://github.com/ansible/ansible-lint/issues/4398) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
+2. 🎉 Merged PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
+3. 💪 Opened PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
+4. 🗣 Commented on [#89](https://github.com/ansible-community/ansible-london-meetup/issues/89#issuecomment-2457183340) in [ansible-community/ansible-london-meetup](https://github.com/ansible-community/ansible-london-meetup)
+5. 🎉 Merged PR [#81](https://github.com/dbrennand/home-ops/pull/81) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
