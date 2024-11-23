@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4398](https://github.com/ansible/ansible-lint/issues/4398#issuecomment-2478197063) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-2. ❗ Opened issue [#4398](https://github.com/ansible/ansible-lint/issues/4398) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-3. 🎉 Merged PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
-4. 💪 Opened PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
-5. 🗣 Commented on [#89](https://github.com/ansible-community/ansible-london-meetup/issues/89#issuecomment-2457183340) in [ansible-community/ansible-london-meetup](https://github.com/ansible-community/ansible-london-meetup)
+1. 🎉 Merged PR [#83](https://github.com/dbrennand/home-ops/pull/83) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#4398](https://github.com/ansible/ansible-lint/issues/4398#issuecomment-2478197063) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
+3. ❗ Opened issue [#4398](https://github.com/ansible/ansible-lint/issues/4398) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
+4. 🎉 Merged PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
+5. 💪 Opened PR [#1](https://github.com/dbrennand/demos/pull/1) in [dbrennand/demos](https://github.com/dbrennand/demos)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
