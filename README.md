@@ -19,8 +19,8 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Blog Posts ✍
 
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Meetup 21 November 2024](https://danielbrennand.com/blog/ansible-meetup-21-november/)
 - [Remote access with Tailscale](https://danielbrennand.com/blog/tailscale/)
 - [Getting started with Visual Studio Code Dev Containers](https://danielbrennand.com/blog/vscode-dev-containers/)
 - [Fixing Proxmox USB Disconnects](https://danielbrennand.com/blog/proxmox-fix-usb-disconnect/)
-- [Migrating from Google Workspace and Outlook Mail to iCloud+](https://danielbrennand.com/blog/google-outlook-to-icloud+/)
 <!-- BLOG-POST-LIST:END -->
