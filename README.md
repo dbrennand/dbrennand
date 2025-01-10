@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/dbrennand/home-ops/pull/112) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#113](https://github.com/dbrennand/home-ops/pull/113) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#11](https://github.com/dbrennand/EventPics/pull/11) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
-4. 💪 Opened PR [#11](https://github.com/dbrennand/EventPics/pull/11) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
-5. 🗣 Commented on [#229](https://github.com/PyratLabs/ansible-role-k3s/issues/229#issuecomment-2571695476) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+1. ❗ Opened issue [#114](https://github.com/dbrennand/home-ops/issues/114) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#109](https://github.com/dbrennand/home-ops/pull/109) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#110](https://github.com/dbrennand/home-ops/pull/110) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#111](https://github.com/dbrennand/home-ops/pull/111) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#112](https://github.com/dbrennand/home-ops/pull/112) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
