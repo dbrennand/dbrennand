@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#114](https://github.com/dbrennand/home-ops/issues/114) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#109](https://github.com/dbrennand/home-ops/pull/109) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#110](https://github.com/dbrennand/home-ops/pull/110) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#111](https://github.com/dbrennand/home-ops/pull/111) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#112](https://github.com/dbrennand/home-ops/pull/112) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🎉 Merged PR [#14](https://github.com/dbrennand/EventPics/pull/14) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
+2. 🎉 Merged PR [#15](https://github.com/dbrennand/EventPics/pull/15) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
+3. 🎉 Merged PR [#13](https://github.com/dbrennand/EventPics/pull/13) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
+4. 🎉 Merged PR [#10](https://github.com/dbrennand/EventPics/pull/10) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
+5. 🎉 Merged PR [#9](https://github.com/dbrennand/EventPics/pull/9) in [dbrennand/EventPics](https://github.com/dbrennand/EventPics)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
