@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/dbrennand/home-ops/pull/135) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#133](https://github.com/dbrennand/home-ops/pull/133) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🗣 Commented on [#132](https://github.com/dbrennand/home-ops/issues/132#issuecomment-2677963105) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#125](https://github.com/dbrennand/home-ops/issues/125#issuecomment-2677961373) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#125](https://github.com/dbrennand/home-ops/issues/125) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#124](https://github.com/dbrennand/home-ops/issues/124#issuecomment-2684378757) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#135](https://github.com/dbrennand/home-ops/pull/135) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#133](https://github.com/dbrennand/home-ops/pull/133) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🗣 Commented on [#132](https://github.com/dbrennand/home-ops/issues/132#issuecomment-2677963105) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#125](https://github.com/dbrennand/home-ops/issues/125#issuecomment-2677961373) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
