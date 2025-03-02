@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/dbrennand/home-ops/issues/124#issuecomment-2684378757) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#135](https://github.com/dbrennand/home-ops/pull/135) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#133](https://github.com/dbrennand/home-ops/pull/133) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#132](https://github.com/dbrennand/home-ops/issues/132#issuecomment-2677963105) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#125](https://github.com/dbrennand/home-ops/issues/125#issuecomment-2677961373) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 💪 Opened PR [#538](https://github.com/artis3n/ansible-role-tailscale/pull/538) in [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale)
+2. ❗ Opened issue [#537](https://github.com/artis3n/ansible-role-tailscale/issues/537) in [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale)
+3. 🎉 Merged PR [#138](https://github.com/dbrennand/home-ops/pull/138) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#136](https://github.com/dbrennand/home-ops/pull/136) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#134](https://github.com/dbrennand/home-ops/pull/134) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
