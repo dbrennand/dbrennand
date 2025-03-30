@@ -9,11 +9,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#538](https://github.com/artis3n/ansible-role-tailscale/pull/538#issuecomment-2763258928) in [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale)
-2. ❗ Opened issue [#151](https://github.com/dbrennand/home-ops/issues/151) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#4](https://github.com/dbrennand/ansible-role-beszel/issues/4) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-4. 🎉 Merged PR [#5](https://github.com/dbrennand/ansible-role-beszel/pull/5) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. 💪 Opened PR [#5](https://github.com/dbrennand/ansible-role-beszel/pull/5) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 🎉 Merged PR [#149](https://github.com/dbrennand/home-ops/pull/149) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#155](https://github.com/dbrennand/home-ops/pull/155) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#154](https://github.com/dbrennand/home-ops/pull/154) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#153](https://github.com/dbrennand/home-ops/pull/153) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#152](https://github.com/dbrennand/home-ops/pull/152) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## Blog Posts ✍
