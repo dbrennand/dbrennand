@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2335](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2335) in [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-2. 💪 Opened PR [#324](https://github.com/ansible/ansible-dev-environment/pull/324) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-3. 🗣 Commented on [#288](https://github.com/ansible/ansible-dev-environment/issues/288#issuecomment-2829561224) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-4. 🗣 Commented on [#1591](https://github.com/ansible/ansible-navigator/issues/1591#issuecomment-2816772203) in [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator)
-5. 🗣 Commented on [#1591](https://github.com/ansible/ansible-navigator/issues/1591#issuecomment-2816701294) in [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator)
+1. ❗ Opened issue [#174](https://github.com/dbrennand/home-ops/issues/174) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🔒 Closed issue [#151](https://github.com/dbrennand/home-ops/issues/151) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#168](https://github.com/dbrennand/home-ops/issues/168) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ❗ Opened issue [#2335](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2335) in [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+5. 💪 Opened PR [#324](https://github.com/ansible/ansible-dev-environment/pull/324) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
