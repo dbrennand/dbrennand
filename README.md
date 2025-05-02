@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#174](https://github.com/dbrennand/home-ops/issues/174) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🔒 Closed issue [#151](https://github.com/dbrennand/home-ops/issues/151) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#168](https://github.com/dbrennand/home-ops/issues/168) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. ❗ Opened issue [#2335](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2335) in [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-5. 💪 Opened PR [#324](https://github.com/ansible/ansible-dev-environment/pull/324) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+1. 🎉 Merged PR [#173](https://github.com/dbrennand/home-ops/pull/173) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#172](https://github.com/dbrennand/home-ops/pull/172) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#171](https://github.com/dbrennand/home-ops/pull/171) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#170](https://github.com/dbrennand/home-ops/pull/170) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#169](https://github.com/dbrennand/home-ops/pull/169) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
