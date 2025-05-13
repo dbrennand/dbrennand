@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/dbrennand/home-ops/issues/174#issuecomment-2869841970) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🔒 Closed issue [#174](https://github.com/dbrennand/home-ops/issues/174) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🗣 Commented on [#324](https://github.com/ansible/ansible-dev-environment/pull/324#issuecomment-2869835070) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-4. ❌ Closed PR [#35](https://github.com/artis3n/ansible-collection-tailscale/pull/35) in [artis3n/ansible-collection-tailscale](https://github.com/artis3n/ansible-collection-tailscale)
-5. 🗣 Commented on [#35](https://github.com/artis3n/ansible-collection-tailscale/pull/35#issuecomment-2865418117) in [artis3n/ansible-collection-tailscale](https://github.com/artis3n/ansible-collection-tailscale)
+1. 🗣 Commented on [#1644](https://github.com/ansible/awx-operator/issues/1644#issuecomment-2875428025) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+2. 🗣 Commented on [#174](https://github.com/dbrennand/home-ops/issues/174#issuecomment-2869841970) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#174](https://github.com/dbrennand/home-ops/issues/174) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🗣 Commented on [#324](https://github.com/ansible/ansible-dev-environment/pull/324#issuecomment-2869835070) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+5. ❌ Closed PR [#35](https://github.com/artis3n/ansible-collection-tailscale/pull/35) in [artis3n/ansible-collection-tailscale](https://github.com/artis3n/ansible-collection-tailscale)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
