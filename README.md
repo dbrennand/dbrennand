@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15976](https://github.com/ansible/awx/issues/15976#issuecomment-2876645008) in [ansible/awx](https://github.com/ansible/awx)
-2. 🗣 Commented on [#1644](https://github.com/ansible/awx-operator/issues/1644#issuecomment-2875428025) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
-3. 🗣 Commented on [#174](https://github.com/dbrennand/home-ops/issues/174#issuecomment-2869841970) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🔒 Closed issue [#174](https://github.com/dbrennand/home-ops/issues/174) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#324](https://github.com/ansible/ansible-dev-environment/pull/324#issuecomment-2869835070) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+1. 🎉 Merged PR [#26](https://github.com/dbrennand/dbrennand.github.io/pull/26) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+2. 💪 Opened PR [#26](https://github.com/dbrennand/dbrennand.github.io/pull/26) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 🗣 Commented on [#15976](https://github.com/ansible/awx/issues/15976#issuecomment-2876645008) in [ansible/awx](https://github.com/ansible/awx)
+4. 🗣 Commented on [#1644](https://github.com/ansible/awx-operator/issues/1644#issuecomment-2875428025) in [ansible/awx-operator](https://github.com/ansible/awx-operator)
+5. 🗣 Commented on [#174](https://github.com/dbrennand/home-ops/issues/174#issuecomment-2869841970) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
