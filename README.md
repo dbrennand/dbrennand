@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#176](https://github.com/dbrennand/home-ops/pull/176) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#180](https://github.com/dbrennand/home-ops/pull/180) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#182](https://github.com/dbrennand/home-ops/pull/182) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#181](https://github.com/dbrennand/home-ops/pull/181) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#183](https://github.com/dbrennand/home-ops/pull/183) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#713](https://github.com/lucaslorentz/caddy-docker-proxy/issues/713#issuecomment-2915081244) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+2. ❌ Closed PR [#176](https://github.com/dbrennand/home-ops/pull/176) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#180](https://github.com/dbrennand/home-ops/pull/180) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#182](https://github.com/dbrennand/home-ops/pull/182) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#181](https://github.com/dbrennand/home-ops/pull/181) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
