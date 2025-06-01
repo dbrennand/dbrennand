@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.0](https://github.com/dbrennand/ansible-role-beszel/releases/tag/1.3.0) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-2. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-beszel/issues/6#issuecomment-2926989463) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-3. 🔒 Closed issue [#6](https://github.com/dbrennand/ansible-role-beszel/issues/6) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-4. 🗣 Commented on [#7](https://github.com/dbrennand/ansible-role-beszel/pull/7#issuecomment-2926988770) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. 🎉 Merged PR [#7](https://github.com/dbrennand/ansible-role-beszel/pull/7) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 💪 Opened PR [#1](https://github.com/dbrennand/M365Scripts/pull/1) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
+2. 🚀 Published release [1.3.0](https://github.com/dbrennand/ansible-role-beszel/releases/tag/1.3.0) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+3. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-beszel/issues/6#issuecomment-2926989463) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+4. 🔒 Closed issue [#6](https://github.com/dbrennand/ansible-role-beszel/issues/6) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+5. 🗣 Commented on [#7](https://github.com/dbrennand/ansible-role-beszel/pull/7#issuecomment-2926988770) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
