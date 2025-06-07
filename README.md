@@ -26,10 +26,10 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Meetup 5 June 2025](https://danielbrennand.com/blog/ansible-meetup-5-june/)
 - [Home-Ops | AWX and Ansible Execution Environments](https://danielbrennand.com/blog/homeops-ansible-ee/)
 - [Ansible Meetup 21 November 2024](https://danielbrennand.com/blog/ansible-meetup-21-november/)
 - [Remote access with Tailscale](https://danielbrennand.com/blog/tailscale/)
-- [Getting started with Visual Studio Code Dev Containers](https://danielbrennand.com/blog/vscode-dev-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with Me
