@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-caddy-docker/issues/11#issuecomment-2954146296) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
-2. 🗣 Commented on [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16#issuecomment-2954144355) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-3. 🔒 Closed issue [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-4. 🎉 Merged PR [#17](https://github.com/dbrennand/ansible-role-autorestic/pull/17) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
-5. 💪 Opened PR [#17](https://github.com/dbrennand/ansible-role-autorestic/pull/17) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+1. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-caddy-docker/issues/11#issuecomment-2954238263) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+2. 💪 Opened PR [#12](https://github.com/dbrennand/ansible-role-caddy-docker/pull/12) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+3. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-caddy-docker/issues/11#issuecomment-2954146296) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+4. 🗣 Commented on [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16#issuecomment-2954144355) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 🔒 Closed issue [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
