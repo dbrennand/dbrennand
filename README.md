@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/dbrennand/dbrennand.github.io/pull/27) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#27](https://github.com/dbrennand/dbrennand.github.io/pull/27) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 💪 Opened PR [#1](https://github.com/dbrennand/M365Scripts/pull/1) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-4. 🚀 Published release [1.3.0](https://github.com/dbrennand/ansible-role-beszel/releases/tag/1.3.0) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. 🗣 Commented on [#6](https://github.com/dbrennand/ansible-role-beszel/issues/6#issuecomment-2926989463) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-caddy-docker/issues/11#issuecomment-2954146296) in [dbrennand/ansible-role-caddy-docker](https://github.com/dbrennand/ansible-role-caddy-docker)
+2. 🗣 Commented on [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16#issuecomment-2954144355) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+3. 🔒 Closed issue [#16](https://github.com/dbrennand/ansible-role-autorestic/issues/16) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+4. 🎉 Merged PR [#17](https://github.com/dbrennand/ansible-role-autorestic/pull/17) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
+5. 💪 Opened PR [#17](https://github.com/dbrennand/ansible-role-autorestic/pull/17) in [dbrennand/ansible-role-autorestic](https://github.com/dbrennand/ansible-role-autorestic)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
