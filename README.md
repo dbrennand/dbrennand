@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/0xfurai/peekaping/issues/2) in [0xfurai/peekaping](https://github.com/0xfurai/peekaping)
-2. ❗ Opened issue [#11](https://github.com/ironicbadger/ansible-role-figurine/issues/11) in [ironicbadger/ansible-role-figurine](https://github.com/ironicbadger/ansible-role-figurine)
-3. 💪 Opened PR [#10](https://github.com/ironicbadger/ansible-role-figurine/pull/10) in [ironicbadger/ansible-role-figurine](https://github.com/ironicbadger/ansible-role-figurine)
-4. ❗ Opened issue [#9](https://github.com/ironicbadger/ansible-role-figurine/issues/9) in [ironicbadger/ansible-role-figurine](https://github.com/ironicbadger/ansible-role-figurine)
-5. 🗣 Commented on [#338](https://github.com/ansible/ansible-dev-environment/issues/338#issuecomment-2987745598) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+1. 💪 Opened PR [#4](https://github.com/0xfurai/peekaping/pull/4) in [0xfurai/peekaping](https://github.com/0xfurai/peekaping)
+2. ❗ Opened issue [#3](https://github.com/0xfurai/peekaping/issues/3) in [0xfurai/peekaping](https://github.com/0xfurai/peekaping)
+3. ❗ Opened issue [#2](https://github.com/0xfurai/peekaping/issues/2) in [0xfurai/peekaping](https://github.com/0xfurai/peekaping)
+4. ❗ Opened issue [#11](https://github.com/ironicbadger/ansible-role-figurine/issues/11) in [ironicbadger/ansible-role-figurine](https://github.com/ironicbadger/ansible-role-figurine)
+5. 💪 Opened PR [#10](https://github.com/ironicbadger/ansible-role-figurine/pull/10) in [ironicbadger/ansible-role-figurine](https://github.com/ironicbadger/ansible-role-figurine)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
