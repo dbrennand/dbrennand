@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#343](https://github.com/ansible/ansible-dev-environment/issues/343) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-2. 🗣 Commented on [#4644](https://github.com/ansible/ansible-lint/pull/4644#issuecomment-3036267218) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-3. 🎉 Merged PR [#201](https://github.com/dbrennand/home-ops/pull/201) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#200](https://github.com/dbrennand/home-ops/pull/200) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#202](https://github.com/dbrennand/home-ops/pull/202) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🎉 Merged PR [#1](https://github.com/dbrennand/M365Scripts/pull/1) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
+2. ❗ Opened issue [#343](https://github.com/ansible/ansible-dev-environment/issues/343) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+3. 🗣 Commented on [#4644](https://github.com/ansible/ansible-lint/pull/4644#issuecomment-3036267218) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
+4. 🎉 Merged PR [#201](https://github.com/dbrennand/home-ops/pull/201) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#200](https://github.com/dbrennand/home-ops/pull/200) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
