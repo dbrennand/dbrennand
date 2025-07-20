@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11#issuecomment-3092516715) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-2. ❌ Closed PR [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-3. 🎉 Merged PR [#205](https://github.com/dbrennand/home-ops/pull/205) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#1](https://github.com/dbrennand/M365Scripts/pull/1) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-5. ❗ Opened issue [#343](https://github.com/ansible/ansible-dev-environment/issues/343) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+1. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-beszel/issues/12#issuecomment-3093793806) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+2. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11#issuecomment-3092516715) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+3. ❌ Closed PR [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+4. 🎉 Merged PR [#205](https://github.com/dbrennand/home-ops/pull/205) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#1](https://github.com/dbrennand/M365Scripts/pull/1) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
