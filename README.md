@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-beszel/issues/12#issuecomment-3098054758) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-2. 💪 Opened PR [#13](https://github.com/dbrennand/ansible-role-beszel/pull/13) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-3. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-beszel/issues/12#issuecomment-3093793806) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-4. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11#issuecomment-3092516715) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. ❌ Closed PR [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 🗣 Commented on [#13](https://github.com/dbrennand/ansible-role-beszel/pull/13#issuecomment-3101322735) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+2. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-beszel/issues/12#issuecomment-3098054758) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+3. 💪 Opened PR [#13](https://github.com/dbrennand/ansible-role-beszel/pull/13) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+4. 🗣 Commented on [#12](https://github.com/dbrennand/ansible-role-beszel/issues/12#issuecomment-3093793806) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+5. 🗣 Commented on [#11](https://github.com/dbrennand/ansible-role-beszel/pull/11#issuecomment-3092516715) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
