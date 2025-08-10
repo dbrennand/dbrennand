@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dbrennand/M365Scripts/pull/2) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-2. 💪 Opened PR [#2](https://github.com/dbrennand/M365Scripts/pull/2) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-3. 💪 Opened PR [#89](https://github.com/ansible-collections/collection_template/pull/89) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-4. 🗣 Commented on [#205](https://github.com/ansible-community/antsibull-changelog/issues/205#issuecomment-3148345188) in [ansible-community/antsibull-changelog](https://github.com/ansible-community/antsibull-changelog)
-5. ❗ Opened issue [#205](https://github.com/ansible-community/antsibull-changelog/issues/205) in [ansible-community/antsibull-changelog](https://github.com/ansible-community/antsibull-changelog)
+1. ❗ Opened issue [#226](https://github.com/dbrennand/home-ops/issues/226) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. ❗ Opened issue [#225](https://github.com/dbrennand/home-ops/issues/225) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#223](https://github.com/dbrennand/home-ops/pull/223) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#224](https://github.com/dbrennand/home-ops/pull/224) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#221](https://github.com/dbrennand/home-ops/pull/221) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
