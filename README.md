@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/dbrennand/dbrennand.github.io/pull/28) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#28](https://github.com/dbrennand/dbrennand.github.io/pull/28) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 🔒 Closed issue [#114](https://github.com/dbrennand/home-ops/issues/114) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. ❗ Opened issue [#235](https://github.com/dbrennand/home-ops/issues/235) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#15](https://github.com/dbrennand/ansible-role-beszel/pull/15#issuecomment-3195174562) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 🗣 Commented on [#125](https://github.com/janraasch/hugo-bearblog/issues/125#issuecomment-3196668081) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
+2. 🎉 Merged PR [#28](https://github.com/dbrennand/dbrennand.github.io/pull/28) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 💪 Opened PR [#28](https://github.com/dbrennand/dbrennand.github.io/pull/28) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+4. 🔒 Closed issue [#114](https://github.com/dbrennand/home-ops/issues/114) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❗ Opened issue [#235](https://github.com/dbrennand/home-ops/issues/235) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
