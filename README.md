@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/7) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-2. ❗ Opened issue [#3](https://github.com/ansible-collections/community.beszel/issues/3) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❗ Opened issue [#2](https://github.com/ansible-collections/community.beszel/issues/2) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🎉 Merged PR [#241](https://github.com/dbrennand/home-ops/pull/241) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#225](https://github.com/dbrennand/home-ops/issues/225) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#10](https://github.com/dbrennand/ansible-role-beszel/pull/10#issuecomment-3224602130) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+2. 🗣 Commented on [#15](https://github.com/dbrennand/ansible-role-beszel/pull/15#issuecomment-3224599435) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+3. ❗ Opened issue [#17](https://github.com/dbrennand/ansible-role-beszel/issues/17) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+4. 🎉 Merged PR [#16](https://github.com/dbrennand/ansible-role-beszel/pull/16) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+5. 💪 Opened PR [#16](https://github.com/dbrennand/ansible-role-beszel/pull/16) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
