@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#350](https://github.com/ansible/ansible-dev-environment/issues/350#issuecomment-3228957882) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-2. 🔒 Closed issue [#350](https://github.com/ansible/ansible-dev-environment/issues/350) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-3. 🗣 Commented on [#241](https://github.com/PyratLabs/ansible-role-k3s/issues/241#issuecomment-3224660614) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-4. 🗣 Commented on [#10](https://github.com/dbrennand/ansible-role-beszel/pull/10#issuecomment-3224602130) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. 🗣 Commented on [#15](https://github.com/dbrennand/ansible-role-beszel/pull/15#issuecomment-3224599435) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
+1. 🗣 Commented on [#7](https://github.com/ansible-collections/community.beszel/issues/7#issuecomment-3233254954) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🗣 Commented on [#350](https://github.com/ansible/ansible-dev-environment/issues/350#issuecomment-3228957882) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+3. 🔒 Closed issue [#350](https://github.com/ansible/ansible-dev-environment/issues/350) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+4. 🗣 Commented on [#241](https://github.com/PyratLabs/ansible-role-k3s/issues/241#issuecomment-3224660614) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
+5. 🗣 Commented on [#10](https://github.com/dbrennand/ansible-role-beszel/pull/10#issuecomment-3224602130) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
