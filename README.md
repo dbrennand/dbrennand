@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ansible-collections/community.beszel/issues/7#issuecomment-3238327099) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🗣 Commented on [#5](https://github.com/ansible-collections/community.beszel/issues/5#issuecomment-3238325691) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🗣 Commented on [#6](https://github.com/ansible-collections/community.beszel/issues/6#issuecomment-3238324698) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🚀 Published release [0.2.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.2.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 🎉 Merged PR [#4](https://github.com/ansible-collections/community.beszel/pull/4) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🔒 Closed issue [#7](https://github.com/ansible-collections/community.beszel/issues/7) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🗣 Commented on [#7](https://github.com/ansible-collections/community.beszel/issues/7#issuecomment-3238327099) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🗣 Commented on [#5](https://github.com/ansible-collections/community.beszel/issues/5#issuecomment-3238325691) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🗣 Commented on [#6](https://github.com/ansible-collections/community.beszel/issues/6#issuecomment-3238324698) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🚀 Published release [0.2.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.2.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
