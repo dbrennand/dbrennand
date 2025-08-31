@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106#issuecomment-3239532267) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
-2. ❗ Opened issue [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
-3. 💪 Opened PR [#9](https://github.com/ansible-collections/community.beszel/pull/9) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🗣 Commented on [#3](https://github.com/ansible-collections/community.beszel/issues/3#issuecomment-3239258968) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 🗣 Commented on [#6](https://github.com/ansible-collections/community.beszel/issues/6#issuecomment-3239221832) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106#issuecomment-3239900895) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
+2. 🔒 Closed issue [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
+3. 🗣 Commented on [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106#issuecomment-3239532267) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
+4. ❗ Opened issue [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
+5. 💪 Opened PR [#9](https://github.com/ansible-collections/community.beszel/pull/9) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
