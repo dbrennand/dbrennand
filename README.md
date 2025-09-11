@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.3.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🔒 Closed issue [#2](https://github.com/ansible-collections/community.beszel/issues/2) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🔒 Closed issue [#3](https://github.com/ansible-collections/community.beszel/issues/3) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🔒 Closed issue [#5](https://github.com/ansible-collections/community.beszel/issues/5) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 🔒 Closed issue [#6](https://github.com/ansible-collections/community.beszel/issues/6) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 💪 Opened PR [#23](https://github.com/henrygd/beszel-docs/pull/23) in [henrygd/beszel-docs](https://github.com/henrygd/beszel-docs)
+2. 🚀 Published release [0.3.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.3.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🔒 Closed issue [#2](https://github.com/ansible-collections/community.beszel/issues/2) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#3](https://github.com/ansible-collections/community.beszel/issues/3) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🔒 Closed issue [#5](https://github.com/ansible-collections/community.beszel/issues/5) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
