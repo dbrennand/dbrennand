@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dbrennand/M365Scripts/pull/3) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-2. 💪 Opened PR [#3](https://github.com/dbrennand/M365Scripts/pull/3) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-3. 🗣 Commented on [#10](https://github.com/dbrennand/ansible-role-beszel/pull/10#issuecomment-3243877662) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-4. 🗣 Commented on [#10](https://github.com/dbrennand/ansible-role-beszel/pull/10#issuecomment-3241268847) in [dbrennand/ansible-role-beszel](https://github.com/dbrennand/ansible-role-beszel)
-5. 🗣 Commented on [#106](https://github.com/ansible-community/ansible-test-gh-action/issues/106#issuecomment-3239900895) in [ansible-community/ansible-test-gh-action](https://github.com/ansible-community/ansible-test-gh-action)
+1. 🚀 Published release [0.3.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.3.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🔒 Closed issue [#2](https://github.com/ansible-collections/community.beszel/issues/2) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🔒 Closed issue [#3](https://github.com/ansible-collections/community.beszel/issues/3) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#5](https://github.com/ansible-collections/community.beszel/issues/5) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🔒 Closed issue [#6](https://github.com/ansible-collections/community.beszel/issues/6) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
