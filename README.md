@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/dbrennand/home-ops/issues/245#issuecomment-3299737757) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🔒 Closed issue [#245](https://github.com/dbrennand/home-ops/issues/245) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#254](https://github.com/dbrennand/home-ops/pull/254) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#257](https://github.com/dbrennand/home-ops/pull/257) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#256](https://github.com/dbrennand/home-ops/pull/256) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 💪 Opened PR [#10](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/10) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+2. 🗣 Commented on [#245](https://github.com/dbrennand/home-ops/issues/245#issuecomment-3299737757) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#245](https://github.com/dbrennand/home-ops/issues/245) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#254](https://github.com/dbrennand/home-ops/pull/254) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🎉 Merged PR [#257](https://github.com/dbrennand/home-ops/pull/257) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
