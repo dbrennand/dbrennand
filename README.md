@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2.  Labeled issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❗ Opened issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🗣 Commented on [#245](https://github.com/PyratLabs/ansible-role-k3s/issues/245#issuecomment-3330088877) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
-5. 🗣 Commented on [#1184](https://github.com/henrygd/beszel/issues/1184#issuecomment-3322502781) in [henrygd/beszel](https://github.com/henrygd/beszel)
+1. ❗ Opened issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🎉 Merged PR [#258](https://github.com/dbrennand/home-ops/pull/258) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#265](https://github.com/dbrennand/home-ops/pull/265) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#264](https://github.com/dbrennand/home-ops/pull/264) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#245](https://github.com/PyratLabs/ansible-role-k3s/issues/245#issuecomment-3330088877) in [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
