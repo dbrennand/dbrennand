@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.4.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.4.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🔒 Closed issue [#12](https://github.com/ansible-collections/community.beszel/issues/12) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🎉 Merged PR [#16](https://github.com/ansible-collections/community.beszel/pull/16) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🎉 Merged PR [#277](https://github.com/dbrennand/home-ops/pull/277) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🎉 Merged PR [#276](https://github.com/dbrennand/home-ops/pull/276) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
+2. ❗ Opened issue [#25](https://github.com/Trozz/terraform-provider-pocketid/issues/25) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
+3. 🚀 Published release [0.4.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.4.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#12](https://github.com/ansible-collections/community.beszel/issues/12) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🎉 Merged PR [#16](https://github.com/ansible-collections/community.beszel/pull/16) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
