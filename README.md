@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#283](https://github.com/dbrennand/home-ops/pull/283) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. ❌ Closed PR [#285](https://github.com/dbrennand/home-ops/pull/285) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. ❗ Opened issue [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
-4. ❗ Opened issue [#25](https://github.com/Trozz/terraform-provider-pocketid/issues/25) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
-5. 🚀 Published release [0.4.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.4.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🎉 Merged PR [#278](https://github.com/dbrennand/home-ops/pull/278) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🎉 Merged PR [#286](https://github.com/dbrennand/home-ops/pull/286) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🎉 Merged PR [#282](https://github.com/dbrennand/home-ops/pull/282) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#283](https://github.com/dbrennand/home-ops/pull/283) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❌ Closed PR [#285](https://github.com/dbrennand/home-ops/pull/285) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
