@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#278](https://github.com/dbrennand/home-ops/pull/278) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🎉 Merged PR [#286](https://github.com/dbrennand/home-ops/pull/286) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🎉 Merged PR [#282](https://github.com/dbrennand/home-ops/pull/282) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🎉 Merged PR [#283](https://github.com/dbrennand/home-ops/pull/283) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. ❌ Closed PR [#285](https://github.com/dbrennand/home-ops/pull/285) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#292](https://github.com/dbrennand/home-ops/issues/292) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. ❗ Opened issue [#291](https://github.com/dbrennand/home-ops/issues/291) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
+4. 🗣 Commented on [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26#issuecomment-3396348331) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
+5. 🎉 Merged PR [#278](https://github.com/dbrennand/home-ops/pull/278) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
