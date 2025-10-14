@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#292](https://github.com/dbrennand/home-ops/issues/292) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. ❗ Opened issue [#291](https://github.com/dbrennand/home-ops/issues/291) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
-4. 🗣 Commented on [#26](https://github.com/Trozz/terraform-provider-pocketid/issues/26#issuecomment-3396348331) in [Trozz/terraform-provider-pocketid](https://github.com/Trozz/terraform-provider-pocketid)
-5. 🎉 Merged PR [#278](https://github.com/dbrennand/home-ops/pull/278) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#295](https://github.com/dbrennand/home-ops/issues/295) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. ❗ Opened issue [#294](https://github.com/dbrennand/home-ops/issues/294) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. ❗ Opened issue [#293](https://github.com/dbrennand/home-ops/issues/293) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ❗ Opened issue [#292](https://github.com/dbrennand/home-ops/issues/292) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❗ Opened issue [#291](https://github.com/dbrennand/home-ops/issues/291) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
