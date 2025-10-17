@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/dbrennand/home-ops/issues/294#issuecomment-3405030718) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2.  Assigned issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3.  Labeled issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4.  Labeled issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. ❗ Opened issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#294](https://github.com/dbrennand/home-ops/issues/294#issuecomment-3416719205) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🔒 Closed issue [#294](https://github.com/dbrennand/home-ops/issues/294) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🗣 Commented on [#294](https://github.com/dbrennand/home-ops/issues/294#issuecomment-3405030718) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4.  Assigned issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5.  Labeled issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
