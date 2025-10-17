@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/dbrennand/home-ops/issues/299#issuecomment-3417140735) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🔓 Reopened issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#294](https://github.com/dbrennand/home-ops/issues/294#issuecomment-3416719205) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🔒 Closed issue [#294](https://github.com/dbrennand/home-ops/issues/294) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#295](https://github.com/dbrennand/home-ops/issues/295#issuecomment-3417379307) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#295](https://github.com/dbrennand/home-ops/issues/295#issuecomment-3417377041) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🗣 Commented on [#295](https://github.com/dbrennand/home-ops/issues/295#issuecomment-3417376835) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4.  Labeled issue [#303](https://github.com/dbrennand/home-ops/issues/303) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❗ Opened issue [#303](https://github.com/dbrennand/home-ops/issues/303) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
