@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#389](undefined) in [emc-openstack/storops](https://github.com/emc-openstack/storops)
-2. 🚀 Published release [0.1.0](https://github.com/dbrennand/NextDNS-Rewrites/releases/tag/0.1.0) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-3. ❌ Labeled PR [#1](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-4. 💪 Opened PR [#1](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-5. ❌ Assigned PR [#1](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
+1.  Labeled issue [#318](https://github.com/dbrennand/home-ops/issues/318) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2.  Assigned issue [#318](https://github.com/dbrennand/home-ops/issues/318) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. ❗ Opened issue [#318](https://github.com/dbrennand/home-ops/issues/318) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4.  Assigned issue [#317](https://github.com/dbrennand/home-ops/issues/317) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5.  Labeled issue [#317](https://github.com/dbrennand/home-ops/issues/317) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
