@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 💪 Opened PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❌ Assigned PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4.  Labeled issue [#318](https://github.com/dbrennand/home-ops/issues/318) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5.  Assigned issue [#318](https://github.com/dbrennand/home-ops/issues/318) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🔒 Closed issue [#11](https://github.com/ansible-collections/community.beszel/issues/11) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🔒 Closed issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ❌ Labeled PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 💪 Opened PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❌ Assigned PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
