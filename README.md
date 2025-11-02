@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/ansible-collections/community.beszel/issues/11) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🔒 Closed issue [#13](https://github.com/ansible-collections/community.beszel/issues/13) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❌ Labeled PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 💪 Opened PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ❌ Assigned PR [#17](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#18](https://github.com/ansible-collections/community.beszel/issues/18#issuecomment-3478166057) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ❌ Closed PR [#14](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🗣 Commented on [#14](https://github.com/ansible-collections/community.beszel/pull/14#issuecomment-3478157382) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🚀 Published release [0.5.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.5.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🔒 Closed issue [#11](https://github.com/ansible-collections/community.beszel/issues/11) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
