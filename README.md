@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2.  Labeled issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3.  Labeled issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4.  Assigned issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ❗ Opened issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1.  Labeled issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ❗ Opened issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3.  Assigned issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4.  Labeled issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5.  Labeled issue [#19](https://github.com/ansible-collections/community.beszel/issues/19) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
