@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/docsible/docsible/issues/112#issuecomment-3517300204) in [docsible/docsible](https://github.com/docsible/docsible)
-2. 🗣 Commented on [#111](https://github.com/docsible/docsible/issues/111#issuecomment-3517278013) in [docsible/docsible](https://github.com/docsible/docsible)
-3. 🔒 Closed issue [#113](https://github.com/docsible/docsible/issues/113) in [docsible/docsible](https://github.com/docsible/docsible)
-4. 🗣 Commented on [#113](https://github.com/docsible/docsible/issues/113#issuecomment-3517233976) in [docsible/docsible](https://github.com/docsible/docsible)
-5. ❗ Opened issue [#114](https://github.com/docsible/docsible/issues/114) in [docsible/docsible](https://github.com/docsible/docsible)
+1. 💪 Opened PR [#115](undefined) in [docsible/docsible](https://github.com/docsible/docsible)
+2. 🗣 Commented on [#112](https://github.com/docsible/docsible/issues/112#issuecomment-3517300204) in [docsible/docsible](https://github.com/docsible/docsible)
+3. 🗣 Commented on [#111](https://github.com/docsible/docsible/issues/111#issuecomment-3517278013) in [docsible/docsible](https://github.com/docsible/docsible)
+4. 🔒 Closed issue [#113](https://github.com/docsible/docsible/issues/113) in [docsible/docsible](https://github.com/docsible/docsible)
+5. 🗣 Commented on [#113](https://github.com/docsible/docsible/issues/113#issuecomment-3517233976) in [docsible/docsible](https://github.com/docsible/docsible)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
