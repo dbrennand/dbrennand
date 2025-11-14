@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](undefined) in [docsible/docsible](https://github.com/docsible/docsible)
-2. 💪 Opened PR [#115](undefined) in [docsible/docsible](https://github.com/docsible/docsible)
-3. 🗣 Commented on [#112](https://github.com/docsible/docsible/issues/112#issuecomment-3517300204) in [docsible/docsible](https://github.com/docsible/docsible)
-4. 🗣 Commented on [#111](https://github.com/docsible/docsible/issues/111#issuecomment-3517278013) in [docsible/docsible](https://github.com/docsible/docsible)
-5. 🔒 Closed issue [#113](https://github.com/docsible/docsible/issues/113) in [docsible/docsible](https://github.com/docsible/docsible)
+1.  Labeled issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. ❗ Opened issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3.  Assigned issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4.  Labeled issue [#343](https://github.com/dbrennand/home-ops/issues/343) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ❗ Opened issue [#343](https://github.com/dbrennand/home-ops/issues/343) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
