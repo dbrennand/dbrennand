@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. ❗ Opened issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3.  Assigned issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4.  Labeled issue [#343](https://github.com/dbrennand/home-ops/issues/343) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. ❗ Opened issue [#343](https://github.com/dbrennand/home-ops/issues/343) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#1097](https://github.com/henrygd/beszel/issues/1097#issuecomment-3551337040) in [henrygd/beszel](https://github.com/henrygd/beszel)
+2.  Labeled issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. ❗ Opened issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4.  Assigned issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5.  Labeled issue [#343](https://github.com/dbrennand/home-ops/issues/343) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
