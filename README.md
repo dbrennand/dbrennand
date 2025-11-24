@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.1](https://github.com/dbrennand/NextDNS-Rewrites/releases/tag/0.1.1) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-2. ❌ Labeled PR [#2](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-3. ❌ Assigned PR [#2](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-4. 💪 Opened PR [#2](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
-5. 🗣 Commented on [#317](https://github.com/dbrennand/home-ops/issues/317#issuecomment-3564758629) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🔒 Closed issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#299](https://github.com/dbrennand/home-ops/issues/299#issuecomment-3569410871) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🚀 Published release [0.1.1](https://github.com/dbrennand/NextDNS-Rewrites/releases/tag/0.1.1) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
+4. ❌ Labeled PR [#2](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
+5. ❌ Assigned PR [#2](undefined) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
