@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/13#issuecomment-3592454490) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-2. ❌ Closed PR [#359](undefined) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#299](https://github.com/dbrennand/home-ops/issues/299) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🗣 Commented on [#299](https://github.com/dbrennand/home-ops/issues/299#issuecomment-3569410871) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🚀 Published release [0.1.1](https://github.com/dbrennand/NextDNS-Rewrites/releases/tag/0.1.1) in [dbrennand/NextDNS-Rewrites](https://github.com/dbrennand/NextDNS-Rewrites)
+1. ❌ Labeled PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ❌ Assigned PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 💪 Opened PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🗣 Commented on [#13](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/13#issuecomment-3592454490) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+5. ❌ Closed PR [#359](undefined) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
