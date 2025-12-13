@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#162](https://github.com/ansible-community/antsibull-nox/issues/162) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-2. 🗣 Commented on [#156](https://github.com/ansible-community/antsibull-nox/issues/156#issuecomment-3649397729) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-3. 🗣 Commented on [#156](https://github.com/ansible-community/antsibull-nox/issues/156#issuecomment-3649230804) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-4. ❗ Opened issue [#156](https://github.com/ansible-community/antsibull-nox/issues/156) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-5. 🗣 Commented on [#152](https://github.com/ansible-community/antsibull-nox/issues/152#issuecomment-3649127925) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+1. 🚀 Published release [0.6.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🔒 Closed issue [#10](https://github.com/ansible-collections/community.beszel/issues/10) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🔒 Closed issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ❌ Merged PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❗ Opened issue [#162](https://github.com/ansible-community/antsibull-nox/issues/162) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
