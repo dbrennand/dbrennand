@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/ansible-community/antsibull-nox/issues/152#issuecomment-3645513333) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-2. ❗ Opened issue [#152](https://github.com/ansible-community/antsibull-nox/issues/152) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-3. ❌ Labeled PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ❌ Assigned PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 💪 Opened PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. ❗ Opened issue [#156](https://github.com/ansible-community/antsibull-nox/issues/156) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+2. 🗣 Commented on [#152](https://github.com/ansible-community/antsibull-nox/issues/152#issuecomment-3649127925) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+3. 🗣 Commented on [#152](https://github.com/ansible-community/antsibull-nox/issues/152#issuecomment-3645513333) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+4. ❗ Opened issue [#152](https://github.com/ansible-community/antsibull-nox/issues/152) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+5. ❌ Labeled PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
