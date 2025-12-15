@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.6.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🔒 Closed issue [#10](https://github.com/ansible-collections/community.beszel/issues/10) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🔒 Closed issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ❌ Merged PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ❗ Opened issue [#162](https://github.com/ansible-community/antsibull-nox/issues/162) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+1. 🗣 Commented on [#163](https://github.com/ansible-community/antsibull-nox/issues/163#issuecomment-3654522468) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+2. 🚀 Published release [0.6.0](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🔒 Closed issue [#10](https://github.com/ansible-collections/community.beszel/issues/10) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#20](https://github.com/ansible-collections/community.beszel/issues/20) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❌ Merged PR [#21](undefined) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
