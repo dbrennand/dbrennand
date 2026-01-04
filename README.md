@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2187](https://github.com/github/codeql-action/issues/2187#issuecomment-3708019503) in [github/codeql-action](https://github.com/github/codeql-action)
-2. 🎉 Merged PR [#16](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/16) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-3. 💪 Opened PR [#16](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/16) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-4. 🎉 Merged PR [#15](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/15) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-5. 💪 Opened PR [#15](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/15) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+1. 💪 Opened PR [#770](https://github.com/lucaslorentz/caddy-docker-proxy/pull/770) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+2. ❗ Opened issue [#17](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/17) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+3. ℹ️ Assigned issue [#17](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/17) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+4. 🗣 Commented on [#2187](https://github.com/github/codeql-action/issues/2187#issuecomment-3708019503) in [github/codeql-action](https://github.com/github/codeql-action)
+5. 🎉 Merged PR [#16](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/16) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
