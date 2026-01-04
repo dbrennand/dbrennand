@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#651](https://github.com/ansible/ansible-builder/issues/651#issuecomment-3705830768) in [ansible/ansible-builder](https://github.com/ansible/ansible-builder)
-2. 🗣 Commented on [#13](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/13#issuecomment-3659287653) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-3. 🎉 Merged PR [#14](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/14) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-4. 🔒 Closed issue [#13](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/13) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-5. ℹ️ Assigned PR [#14](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/14) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+1. 🗣 Commented on [#2187](https://github.com/github/codeql-action/issues/2187#issuecomment-3708019503) in [github/codeql-action](https://github.com/github/codeql-action)
+2. 🎉 Merged PR [#16](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/16) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+3. 💪 Opened PR [#16](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/16) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+4. 🎉 Merged PR [#15](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/15) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+5. 💪 Opened PR [#15](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/15) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
