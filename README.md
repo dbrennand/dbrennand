@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/1Password/terraform-provider-onepassword/issues/306#issuecomment-3712062063) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-2. ❌ Closed PR [#378](https://github.com/dbrennand/home-ops/pull/378) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#17](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/issues/17) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-4. 🎉 Merged PR [#18](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/18) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-5. 💪 Opened PR [#18](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/18) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+1. ℹ️ Labeled PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ℹ️ Assigned PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ℹ️ Labeled issue [#23](https://github.com/ansible-collections/community.beszel/issues/23) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled issue [#23](https://github.com/ansible-collections/community.beszel/issues/23) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❗ Opened issue [#23](https://github.com/ansible-collections/community.beszel/issues/23) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
