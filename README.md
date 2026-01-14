@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.6.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🗣 Commented on [#22](https://github.com/ansible-collections/community.beszel/pull/22#issuecomment-3737325026) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ℹ️ Labeled PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Assigned PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ℹ️ Labeled issue [#23](https://github.com/ansible-collections/community.beszel/issues/23) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#306](https://github.com/1Password/terraform-provider-onepassword/issues/306#issuecomment-3751389074) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+2. 🚀 Published release [0.6.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🗣 Commented on [#22](https://github.com/ansible-collections/community.beszel/pull/22#issuecomment-3737325026) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Assigned PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
