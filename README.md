@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#293](https://github.com/dbrennand/home-ops/issues/293) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🔒 Closed issue [#303](https://github.com/dbrennand/home-ops/issues/303) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🗣 Commented on [#24](https://github.com/ansible-collections/community.beszel/pull/24#issuecomment-3753579208) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Labeled PR [#24](https://github.com/ansible-collections/community.beszel/pull/24) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ℹ️ Assigned PR [#24](https://github.com/ansible-collections/community.beszel/pull/24) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🚀 Published release [1.1.1](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.1) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+2. 🎉 Merged PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+3. 💪 Opened PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+4. ℹ️ Assigned PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+5. 🔒 Closed issue [#293](https://github.com/dbrennand/home-ops/issues/293) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
