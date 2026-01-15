@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.1](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.1) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-2. 🎉 Merged PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-3. 💪 Opened PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-4. ℹ️ Assigned PR [#44](https://github.com/dbrennand/virustotal-python/pull/44) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
-5. 🔒 Closed issue [#293](https://github.com/dbrennand/home-ops/issues/293) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#56](https://github.com/dell/python-powerstore/issues/56) in [dell/python-powerstore](https://github.com/dell/python-powerstore)
+2. ℹ️ Labeled issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
+3. ℹ️ Labeled issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
+4. ❗ Opened issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
+5. 🚀 Published release [1.1.1](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.1) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
