@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/1Password/terraform-provider-onepassword/issues/306#issuecomment-3751389074) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-2. 🚀 Published release [0.6.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🗣 Commented on [#22](https://github.com/ansible-collections/community.beszel/pull/22#issuecomment-3737325026) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Labeled PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ℹ️ Assigned PR [#22](https://github.com/ansible-collections/community.beszel/pull/22) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🔒 Closed issue [#293](https://github.com/dbrennand/home-ops/issues/293) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🔒 Closed issue [#303](https://github.com/dbrennand/home-ops/issues/303) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🗣 Commented on [#24](https://github.com/ansible-collections/community.beszel/pull/24#issuecomment-3753579208) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled PR [#24](https://github.com/ansible-collections/community.beszel/pull/24) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Assigned PR [#24](https://github.com/ansible-collections/community.beszel/pull/24) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
