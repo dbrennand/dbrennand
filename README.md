@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0](https://github.com/dbrennand/speeder/releases/tag/2.0.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-2. 🎉 Merged PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-3. ℹ️ Labeled PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-4. ℹ️ Labeled PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
-5. 💪 Opened PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+1. 🚀 Published release [0.6.2](https://github.com/ansible-collections/community.beszel/releases/tag/0.6.2) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 🗣 Commented on [#24](https://github.com/ansible-collections/community.beszel/pull/24#issuecomment-3762016010) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🚀 Published release [2.0.0](https://github.com/dbrennand/speeder/releases/tag/2.0.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+4. 🎉 Merged PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. ℹ️ Labeled PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
