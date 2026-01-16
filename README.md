@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/dell/python-powerstore/issues/56) in [dell/python-powerstore](https://github.com/dell/python-powerstore)
-2. ℹ️ Labeled issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
-3. ℹ️ Labeled issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
-4. ❗ Opened issue [#99](https://github.com/dell/ansible-powerstore/issues/99) in [dell/ansible-powerstore](https://github.com/dell/ansible-powerstore)
-5. 🚀 Published release [1.1.1](https://github.com/dbrennand/virustotal-python/releases/tag/1.1.1) in [dbrennand/virustotal-python](https://github.com/dbrennand/virustotal-python)
+1. 🚀 Published release [2.0.0](https://github.com/dbrennand/speeder/releases/tag/2.0.0) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+2. 🎉 Merged PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+3. ℹ️ Labeled PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+4. ℹ️ Labeled PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
+5. 💪 Opened PR [#13](https://github.com/dbrennand/speeder/pull/13) in [dbrennand/speeder](https://github.com/dbrennand/speeder)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
