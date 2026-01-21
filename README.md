@@ -16,11 +16,11 @@ I'm a Service Delivery Engineer 🛠 passionate about DevOps, self-hosting and d
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. ❗ Opened issue [#25](https://github.com/ansible-collections/community.beszel/issues/25) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 2. ℹ️ Labeled issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. ❗ Opened issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. ℹ️ Assigned issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. ℹ️ Labeled issue [#415](https://github.com/dbrennand/home-ops/issues/415) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. ℹ️ Labeled issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ❗ Opened issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. ℹ️ Assigned issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
