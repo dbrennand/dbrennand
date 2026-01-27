@@ -1,6 +1,6 @@
 # Hi 👋, I'm Daniel Brennand 👨‍💻
 
-I work on the Ansible Community Engineering team at [Red Hat](https://www.redhat.com). I'm passionate about Ansible, DevOps, self-hosting and developing open source software. I'm always looking for new opportunities to learn and grow 🌱
+I work on the Ansible Community Engineering team at [Red Hat](https://www.redhat.com). I'm passionate about Community, DevOps, self-hosting and developing open source software. I'm always looking for new opportunities to learn and grow 🌱
 
 If you're into Ansible, join me and the rest of the community on the [Ansible forum](https://forum.ansible.com/).
 
