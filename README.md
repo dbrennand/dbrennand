@@ -37,3 +37,5 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## 💬 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@danielbrennand.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbrenuk) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/dbrenuk) [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/dbrenuk)
+
+<a rel="me" href="https://mastodon.social/@dbrenuk"></a>
