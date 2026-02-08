@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](https://github.com/ansible-community/antsibull-nox/pull/187) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-2. 🗣 Commented on [#162](https://github.com/ansible-community/antsibull-nox/issues/162#issuecomment-3864785636) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-3. ℹ️ Labeled issue [#30](https://github.com/ansible-collections/community.beszel/issues/30) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#187](https://github.com/ansible-community/antsibull-nox/pull/187#issuecomment-3867238783) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+2. 💪 Opened PR [#187](https://github.com/ansible-community/antsibull-nox/pull/187) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+3. 🗣 Commented on [#162](https://github.com/ansible-community/antsibull-nox/issues/162#issuecomment-3864785636) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
 4. ℹ️ Labeled issue [#30](https://github.com/ansible-collections/community.beszel/issues/30) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ℹ️ Assigned issue [#30](https://github.com/ansible-collections/community.beszel/issues/30) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Labeled issue [#30](https://github.com/ansible-collections/community.beszel/issues/30) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
