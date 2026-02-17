@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/ansible/validated-content-discussion/issues/53#issuecomment-3896813538) in [ansible/validated-content-discussion](https://github.com/ansible/validated-content-discussion)
-2. 🎉 Merged PR [#4758](https://github.com/ansible/ansible-lint/pull/4758) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-3. 🗣 Commented on [#187](https://github.com/ansible-community/antsibull-nox/pull/187#issuecomment-3867238783) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-4. 💪 Opened PR [#187](https://github.com/ansible-community/antsibull-nox/pull/187) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-5. 🗣 Commented on [#162](https://github.com/ansible-community/antsibull-nox/issues/162#issuecomment-3864785636) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+1. 🔒 Closed issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🗣 Commented on [#344](https://github.com/dbrennand/home-ops/issues/344#issuecomment-3914694230) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#308](https://github.com/dbrennand/home-ops/issues/308) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🔒 Closed issue [#309](https://github.com/dbrennand/home-ops/issues/309) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#53](https://github.com/ansible/validated-content-discussion/issues/53#issuecomment-3896813538) in [ansible/validated-content-discussion](https://github.com/ansible/validated-content-discussion)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
