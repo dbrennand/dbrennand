@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-2. 🗣 Commented on [#344](https://github.com/dbrennand/home-ops/issues/344#issuecomment-3914694230) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. 🔒 Closed issue [#308](https://github.com/dbrennand/home-ops/issues/308) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-4. 🔒 Closed issue [#309](https://github.com/dbrennand/home-ops/issues/309) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#53](https://github.com/ansible/validated-content-discussion/issues/53#issuecomment-3896813538) in [ansible/validated-content-discussion](https://github.com/ansible/validated-content-discussion)
+1. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ❗ Opened issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+5. 🗣 Commented on [#344](https://github.com/dbrennand/home-ops/issues/344#issuecomment-3914694230) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
