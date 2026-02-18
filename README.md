@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#773](https://github.com/ansible-collections/community.mysql/pull/773#issuecomment-3920257916) in [ansible-collections/community.mysql](https://github.com/ansible-collections/community.mysql)
-2. 🗣 Commented on [#31](https://github.com/ansible-collections/community.beszel/pull/31#issuecomment-3920250583) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ❗ Opened issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 💪 Opened PR [#414](https://github.com/ansible/galaxy-importer/pull/414) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+2. 🗣 Commented on [#3596](https://github.com/ansible/galaxy/issues/3596#issuecomment-3921874375) in [ansible/galaxy](https://github.com/ansible/galaxy)
+3. 🗣 Commented on [#773](https://github.com/ansible-collections/community.mysql/pull/773#issuecomment-3920257916) in [ansible-collections/community.mysql](https://github.com/ansible-collections/community.mysql)
+4. 🗣 Commented on [#31](https://github.com/ansible-collections/community.beszel/pull/31#issuecomment-3920250583) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
