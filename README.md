@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❗ Opened issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🔒 Closed issue [#344](https://github.com/dbrennand/home-ops/issues/344) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-5. 🗣 Commented on [#344](https://github.com/dbrennand/home-ops/issues/344#issuecomment-3914694230) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+1. 🗣 Commented on [#773](https://github.com/ansible-collections/community.mysql/pull/773#issuecomment-3920257916) in [ansible-collections/community.mysql](https://github.com/ansible-collections/community.mysql)
+2. 🗣 Commented on [#31](https://github.com/ansible-collections/community.beszel/pull/31#issuecomment-3920250583) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❗ Opened issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
