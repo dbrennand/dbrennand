@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/ansible-community/ansible.im/pull/34) in [ansible-community/ansible.im](https://github.com/ansible-community/ansible.im)
-2. 💪 Opened PR [#34](https://github.com/ansible-community/ansible.im/pull/34) in [ansible-community/ansible.im](https://github.com/ansible-community/ansible.im)
-3. 💪 Opened PR [#414](https://github.com/ansible/galaxy-importer/pull/414) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-4. 🗣 Commented on [#3596](https://github.com/ansible/galaxy/issues/3596#issuecomment-3921874375) in [ansible/galaxy](https://github.com/ansible/galaxy)
-5. 🗣 Commented on [#773](https://github.com/ansible-collections/community.mysql/pull/773#issuecomment-3920257916) in [ansible-collections/community.mysql](https://github.com/ansible-collections/community.mysql)
+1. 🔒 Closed issue [#414](https://github.com/dbrennand/home-ops/issues/414) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. 🔒 Closed issue [#415](https://github.com/dbrennand/home-ops/issues/415) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+3. 🔒 Closed issue [#416](https://github.com/dbrennand/home-ops/issues/416) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. 🎉 Merged PR [#34](https://github.com/ansible-community/ansible.im/pull/34) in [ansible-community/ansible.im](https://github.com/ansible-community/ansible.im)
+5. 💪 Opened PR [#34](https://github.com/ansible-community/ansible.im/pull/34) in [ansible-community/ansible.im](https://github.com/ansible-community/ansible.im)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
