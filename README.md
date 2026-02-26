@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 💪 Opened PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ℹ️ Assigned PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🎉 Merged PR [#414](https://github.com/ansible/galaxy-importer/pull/414) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-5. 🚀 Published release [0.7.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.7.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. ℹ️ Labeled issue [#36](https://github.com/ansible-collections/community.beszel/issues/36) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ℹ️ Assigned issue [#36](https://github.com/ansible-collections/community.beszel/issues/36) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ❗ Opened issue [#36](https://github.com/ansible-collections/community.beszel/issues/36) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 💪 Opened PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
