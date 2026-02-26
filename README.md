@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#414](https://github.com/ansible/galaxy-importer/pull/414) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-2. 🚀 Published release [0.7.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.7.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🗣 Commented on [#31](https://github.com/ansible-collections/community.beszel/pull/31#issuecomment-3944032717) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🔒 Closed issue [#30](https://github.com/ansible-collections/community.beszel/issues/30) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ℹ️ Assigned PR [#31](https://github.com/ansible-collections/community.beszel/pull/31) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. ℹ️ Labeled PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. 💪 Opened PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ℹ️ Assigned PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🎉 Merged PR [#414](https://github.com/ansible/galaxy-importer/pull/414) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+5. 🚀 Published release [0.7.1](https://github.com/ansible-collections/community.beszel/releases/tag/0.7.1) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
