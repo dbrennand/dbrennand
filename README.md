@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3991607801) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3991558001) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-3. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3986048996) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-4. 💪 Opened PR [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. ❗ Opened issue [#48](https://github.com/ansible-collections/partner-certification-checker/issues/48) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🎉 Merged PR [#1](https://github.com/dbrennand/day-flow/pull/1) in [dbrennand/day-flow](https://github.com/dbrennand/day-flow)
+2. 💪 Opened PR [#1](https://github.com/dbrennand/day-flow/pull/1) in [dbrennand/day-flow](https://github.com/dbrennand/day-flow)
+3. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3991607801) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+4. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3991558001) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+5. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-3986048996) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
