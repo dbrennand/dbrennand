@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/janraasch/hugo-bearblog/pull/143#issuecomment-4017500478) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
-2. 💪 Opened PR [#143](https://github.com/janraasch/hugo-bearblog/pull/143) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
-3. 🎉 Merged PR [#31](https://github.com/dbrennand/dbrennand.github.io/pull/31) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-4. 💪 Opened PR [#31](https://github.com/dbrennand/dbrennand.github.io/pull/31) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-5. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-4011677152) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🔒 Closed issue [#3606](https://github.com/ansible/galaxy/issues/3606) in [ansible/galaxy](https://github.com/ansible/galaxy)
+2. 🗣 Commented on [#3606](https://github.com/ansible/galaxy/issues/3606#issuecomment-4037765307) in [ansible/galaxy](https://github.com/ansible/galaxy)
+3. ℹ️ Assigned issue [#3606](https://github.com/ansible/galaxy/issues/3606) in [ansible/galaxy](https://github.com/ansible/galaxy)
+4. 🗣 Commented on [#143](https://github.com/janraasch/hugo-bearblog/pull/143#issuecomment-4017500478) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
+5. 💪 Opened PR [#143](https://github.com/janraasch/hugo-bearblog/pull/143) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
