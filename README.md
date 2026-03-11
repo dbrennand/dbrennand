@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3606](https://github.com/ansible/galaxy/issues/3606) in [ansible/galaxy](https://github.com/ansible/galaxy)
-2. 🗣 Commented on [#3606](https://github.com/ansible/galaxy/issues/3606#issuecomment-4037765307) in [ansible/galaxy](https://github.com/ansible/galaxy)
-3. ℹ️ Assigned issue [#3606](https://github.com/ansible/galaxy/issues/3606) in [ansible/galaxy](https://github.com/ansible/galaxy)
-4. 🗣 Commented on [#143](https://github.com/janraasch/hugo-bearblog/pull/143#issuecomment-4017500478) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
-5. 💪 Opened PR [#143](https://github.com/janraasch/hugo-bearblog/pull/143) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
+1. 🗣 Commented on [#3607](https://github.com/ansible/galaxy/issues/3607#issuecomment-4038745870) in [ansible/galaxy](https://github.com/ansible/galaxy)
+2. 🔒 Closed issue [#3607](https://github.com/ansible/galaxy/issues/3607) in [ansible/galaxy](https://github.com/ansible/galaxy)
+3. 🗣 Commented on [#3607](https://github.com/ansible/galaxy/issues/3607#issuecomment-4038564052) in [ansible/galaxy](https://github.com/ansible/galaxy)
+4. ℹ️ Assigned issue [#3607](https://github.com/ansible/galaxy/issues/3607) in [ansible/galaxy](https://github.com/ansible/galaxy)
+5. 🔒 Closed issue [#3606](https://github.com/ansible/galaxy/issues/3606) in [ansible/galaxy](https://github.com/ansible/galaxy)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
