@@ -18,11 +18,11 @@ If you're into Ansible, join me and the rest of the community on the [Ansible fo
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#33](https://github.com/ansible-collections/community.beszel/pull/33) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. ℹ️ Labeled PR [#34](https://github.com/ansible-collections/community.beszel/pull/34) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ❌ Closed PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🗣 Commented on [#48](https://github.com/ansible-collections/partner-certification-checker/issues/48#issuecomment-4047558228) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. 🗣 Commented on [#49](https://github.com/ansible-collections/partner-certification-checker/pull/49#issuecomment-4047538256) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. ℹ️ Labeled PR [#37](https://github.com/ansible-collections/community.beszel/pull/37) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ℹ️ Labeled PR [#33](https://github.com/ansible-collections/community.beszel/pull/33) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ℹ️ Labeled PR [#34](https://github.com/ansible-collections/community.beszel/pull/34) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ❌ Closed PR [#35](https://github.com/ansible-collections/community.beszel/pull/35) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🗣 Commented on [#48](https://github.com/ansible-collections/partner-certification-checker/issues/48#issuecomment-4047558228) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
