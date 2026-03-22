@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/ansible-collections/community.beszel/pull/38#issuecomment-4106570286) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🚀 Published release [1.0.0](https://github.com/ansible-collections/community.beszel/releases/tag/1.0.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. 🔒 Closed issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. 🔒 Closed issue [#36](https://github.com/ansible-collections/community.beszel/issues/36) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 🔒 Closed issue [#28](https://github.com/ansible-collections/community.beszel/issues/28) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#187](https://github.com/ansible-community/antsibull-nox/pull/187#issuecomment-4106851312) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+2. 🗣 Commented on [#38](https://github.com/ansible-collections/community.beszel/pull/38#issuecomment-4106570286) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🚀 Published release [1.0.0](https://github.com/ansible-collections/community.beszel/releases/tag/1.0.0) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. 🔒 Closed issue [#32](https://github.com/ansible-collections/community.beszel/issues/32) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. 🔒 Closed issue [#36](https://github.com/ansible-collections/community.beszel/issues/36) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
