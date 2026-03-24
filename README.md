@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#3544](https://github.com/ansible/ansible-documentation/pull/3544) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-2. ℹ️ Labeled PR [#3544](https://github.com/ansible/ansible-documentation/pull/3544) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-3. 💪 Opened PR [#3544](https://github.com/ansible/ansible-documentation/pull/3544) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-4. ℹ️ Labeled PR [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. 💪 Opened PR [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🎉 Merged PR [#12](https://github.com/ansible/logos/pull/12) in [ansible/logos](https://github.com/ansible/logos)
+2. 🗣 Commented on [#11](https://github.com/ansible/logos/issues/11#issuecomment-4117661724) in [ansible/logos](https://github.com/ansible/logos)
+3. 🗣 Commented on [#9](https://github.com/ansible/logos/pull/9#issuecomment-4117643308) in [ansible/logos](https://github.com/ansible/logos)
+4. 💪 Opened PR [#12](https://github.com/ansible/logos/pull/12) in [ansible/logos](https://github.com/ansible/logos)
+5. ℹ️ Assigned PR [#3544](https://github.com/ansible/ansible-documentation/pull/3544) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
