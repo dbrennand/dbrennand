@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/ansible-collections/partner-certification-checker/issues/47#issuecomment-4135494946) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. 🎉 Merged PR [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-3. 🗣 Commented on [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54#issuecomment-4128090645) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-4. 🗣 Commented on [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54#issuecomment-4126685282) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. 🎉 Merged PR [#12](https://github.com/ansible/logos/pull/12) in [ansible/logos](https://github.com/ansible/logos)
+1. 💪 Opened PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+2. 🗣 Commented on [#47](https://github.com/ansible-collections/partner-certification-checker/issues/47#issuecomment-4135494946) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+3. 🎉 Merged PR [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+4. 🗣 Commented on [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54#issuecomment-4128090645) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+5. 🗣 Commented on [#54](https://github.com/ansible-collections/partner-certification-checker/pull/54#issuecomment-4126685282) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
