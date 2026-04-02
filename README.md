@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. 💪 Opened PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4160693100) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-4. 💪 Opened PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-5. 🗣 Commented on [#47](https://github.com/ansible-collections/partner-certification-checker/issues/47#issuecomment-4135494946) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4175577098) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+2. ℹ️ Labeled PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. 💪 Opened PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4160693100) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+5. 💪 Opened PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
