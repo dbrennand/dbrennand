@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0-beta](https://github.com/ansible-community/awx-tui/releases/tag/0.1.0-beta) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. 🎉 Merged PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4175577098) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-4. ℹ️ Labeled PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-5. 💪 Opened PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+1. 🗣 Commented on [#3615](https://github.com/ansible/galaxy/issues/3615#issuecomment-4206737919) in [ansible/galaxy](https://github.com/ansible/galaxy)
+2. ℹ️ Assigned issue [#3615](https://github.com/ansible/galaxy/issues/3615) in [ansible/galaxy](https://github.com/ansible/galaxy)
+3. 🚀 Published release [0.1.0-beta](https://github.com/ansible-community/awx-tui/releases/tag/0.1.0-beta) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. 🎉 Merged PR [#24](https://github.com/ansible-community/awx-tui/pull/24) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+5. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4175577098) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
