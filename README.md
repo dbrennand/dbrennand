@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4214969975) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-2. ℹ️ Assigned PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-3. 💪 Opened PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-4. 🎉 Merged PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-5. 🗣 Commented on [#3615](https://github.com/ansible/galaxy/issues/3615#issuecomment-4213220866) in [ansible/galaxy](https://github.com/ansible/galaxy)
+1. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4215721004) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+2. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4214969975) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+3. ℹ️ Assigned PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+4. 💪 Opened PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+5. 🎉 Merged PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
