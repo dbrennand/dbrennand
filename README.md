@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4215721004) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
-2. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4214969975) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-3. ℹ️ Assigned PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-4. 💪 Opened PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-5. 🎉 Merged PR [#419](https://github.com/ansible/galaxy-importer/pull/419) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+1. 🎉 Merged PR [#143](https://github.com/janraasch/hugo-bearblog/pull/143) in [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
+2. 🗣 Commented on [#419](https://github.com/ansible/galaxy-importer/pull/419#issuecomment-4215721004) in [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer)
+3. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4214969975) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+4. ℹ️ Assigned PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+5. 💪 Opened PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
