@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. 💪 Opened PR [#40](https://github.com/ansible-collections/community.beszel/pull/40) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ℹ️ Assigned PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-4. 💪 Opened PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-5. 🎉 Merged PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
+1. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+2. ❗ Opened issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. 🎉 Merged PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. 💪 Opened PR [#40](https://github.com/ansible-collections/community.beszel/pull/40) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Assigned PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
