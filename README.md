@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-2. ℹ️ Labeled PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-3. ℹ️ Assigned PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-4. 💪 Opened PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
-5. ℹ️ Labeled PR [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. ℹ️ Assigned PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+2. 💪 Opened PR [#30](https://github.com/ansible-community/awx-tui/pull/30) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. 🎉 Merged PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
+4. ℹ️ Labeled PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
+5. ℹ️ Assigned PR [#4](https://github.com/dbrennand/M365Scripts/pull/4) in [dbrennand/M365Scripts](https://github.com/dbrennand/M365Scripts)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
