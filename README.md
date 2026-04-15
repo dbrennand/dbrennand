@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4251564432) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. 💪 Opened PR [#425](https://github.com/ansible/ansible-dev-environment/pull/425) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-3. 🗣 Commented on [#405](https://github.com/ansible/ansible-dev-environment/pull/405#issuecomment-4251443195) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-4. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4251317328) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
-5. ❌ Closed PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+1. 🗣 Commented on [#425](https://github.com/ansible/ansible-dev-environment/pull/425#issuecomment-4251596864) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+2. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4251564432) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+3. 💪 Opened PR [#425](https://github.com/ansible/ansible-dev-environment/pull/425) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+4. 🗣 Commented on [#405](https://github.com/ansible/ansible-dev-environment/pull/405#issuecomment-4251443195) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+5. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4251317328) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
