@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3099](https://github.com/ansible/ansible-ui/pull/3099) in [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-2. ❗ Opened issue [#550](https://github.com/ansible/tox-ansible/issues/550) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-3. ❗ Opened issue [#549](https://github.com/ansible/tox-ansible/issues/549) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-4. ❗ Opened issue [#548](https://github.com/ansible/tox-ansible/issues/548) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-5. ℹ️ Assigned issue [#59](https://github.com/ansible-collections/partner-certification-checker/issues/59) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4251564432) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+2. 💪 Opened PR [#425](https://github.com/ansible/ansible-dev-environment/pull/425) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+3. 🗣 Commented on [#405](https://github.com/ansible/ansible-dev-environment/pull/405#issuecomment-4251443195) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
+4. 🗣 Commented on [#93](https://github.com/ansible-collections/collection_template/pull/93#issuecomment-4251317328) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
+5. ❌ Closed PR [#93](https://github.com/ansible-collections/collection_template/pull/93) in [ansible-collections/collection_template](https://github.com/ansible-collections/collection_template)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
