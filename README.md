@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#550](https://github.com/ansible/tox-ansible/issues/550) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-2. ❗ Opened issue [#549](https://github.com/ansible/tox-ansible/issues/549) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-3. ❗ Opened issue [#548](https://github.com/ansible/tox-ansible/issues/548) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
-4. ℹ️ Assigned issue [#59](https://github.com/ansible-collections/partner-certification-checker/issues/59) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+1. 💪 Opened PR [#3099](https://github.com/ansible/ansible-ui/pull/3099) in [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
+2. ❗ Opened issue [#550](https://github.com/ansible/tox-ansible/issues/550) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
+3. ❗ Opened issue [#549](https://github.com/ansible/tox-ansible/issues/549) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
+4. ❗ Opened issue [#548](https://github.com/ansible/tox-ansible/issues/548) in [ansible/tox-ansible](https://github.com/ansible/tox-ansible)
+5. ℹ️ Assigned issue [#59](https://github.com/ansible-collections/partner-certification-checker/issues/59) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
