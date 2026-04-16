@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3099](https://github.com/ansible/ansible-ui/pull/3099) in [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-2. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. ❗ Opened issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-4. 🗣 Commented on [#425](https://github.com/ansible/ansible-dev-environment/pull/425#issuecomment-4251596864) in [ansible/ansible-dev-environment](https://github.com/ansible/ansible-dev-environment)
-5. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4251564432) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+2. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ❗ Opened issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
