@@ -18,10 +18,10 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4259891638) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4259129064) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-3. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. ℹ️ Labeled issue [#1718](https://github.com/ansible-collections/community.zabbix/issues/1718) in [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix)
+2. ❗ Opened issue [#1718](https://github.com/ansible-collections/community.zabbix/issues/1718) in [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix)
+3. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4259891638) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+4. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4259129064) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 5. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
