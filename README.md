@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#60](https://github.com/ansible-collections/partner-certification-checker/pull/60#issuecomment-4259129064) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 2. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 3. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 4. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. ❗ Opened issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Labeled issue [#41](https://github.com/ansible-collections/community.beszel/issues/41) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
