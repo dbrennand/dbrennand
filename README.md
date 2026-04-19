@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64#issuecomment-4266992669) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. 🗣 Commented on [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64#issuecomment-4266957573) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-3. 💪 Opened PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-4. ℹ️ Assigned PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-5. 🚀 Published release [v1.1.0](https://github.com/ansible-collections/partner-certification-checker/releases/tag/v1.1.0) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🎉 Merged PR [#25](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/25) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+2. 💪 Opened PR [#25](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/25) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
+3. 🗣 Commented on [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64#issuecomment-4266992669) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+4. 🗣 Commented on [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64#issuecomment-4266957573) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+5. 💪 Opened PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
