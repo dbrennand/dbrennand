@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/26) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-2. 💪 Opened PR [#26](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/26) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-3. 🎉 Merged PR [#25](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/25) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-4. 💪 Opened PR [#25](https://github.com/dbrennand/caddy-docker-proxy-cloudflare/pull/25) in [dbrennand/caddy-docker-proxy-cloudflare](https://github.com/dbrennand/caddy-docker-proxy-cloudflare)
-5. 🗣 Commented on [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64#issuecomment-4266992669) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+2. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+5. 🗣 Commented on [#1723](https://github.com/ansible-collections/community.zabbix/issues/1723#issuecomment-4279165519) in [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
