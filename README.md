@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+1. 🎉 Merged PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 2. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 4. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-5. 🗣 Commented on [#1723](https://github.com/ansible-collections/community.zabbix/issues/1723#issuecomment-4279165519) in [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix)
+5. ℹ️ Labeled issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
