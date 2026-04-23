@@ -18,10 +18,10 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. ℹ️ Assigned PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. 🎉 Merged PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-4. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+1. ❌ Closed PR [#460](https://github.com/dbrennand/home-ops/pull/460) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+2. ℹ️ Labeled PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. ℹ️ Assigned PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. 🎉 Merged PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
 5. ℹ️ Labeled issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
