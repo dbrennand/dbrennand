@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#71](https://github.com/ansible-collections/partner-certification-checker/issues/71) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
-2. ❌ Closed PR [#460](https://github.com/dbrennand/home-ops/pull/460) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
-3. ℹ️ Labeled PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-4. ℹ️ Assigned PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-5. 🎉 Merged PR [#64](https://github.com/ansible-collections/partner-certification-checker/pull/64) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🎉 Merged PR [#187](https://github.com/ansible-community/antsibull-nox/pull/187) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
+2. ❗ Opened issue [#71](https://github.com/ansible-collections/partner-certification-checker/issues/71) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+3. ❌ Closed PR [#460](https://github.com/dbrennand/home-ops/pull/460) in [dbrennand/home-ops](https://github.com/dbrennand/home-ops)
+4. ℹ️ Labeled PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+5. ℹ️ Assigned PR [#33](https://github.com/ansible-community/awx-tui/pull/33) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
