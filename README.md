@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4344602323) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. 🔒 Closed issue [#32](https://github.com/ansible-community/awx-tui/issues/32) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. 🔒 Closed issue [#31](https://github.com/ansible-community/awx-tui/issues/31) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-4. 🎉 Merged PR [#187](https://github.com/ansible-community/antsibull-nox/pull/187) in [ansible-community/antsibull-nox](https://github.com/ansible-community/antsibull-nox)
-5. ❗ Opened issue [#71](https://github.com/ansible-collections/partner-certification-checker/issues/71) in [ansible-collections/partner-certification-checker](https://github.com/ansible-collections/partner-certification-checker)
+1. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4345884548) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+2. ℹ️ Labeled PR [#34](https://github.com/ansible-community/awx-tui/pull/34) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+3. ℹ️ Labeled PR [#35](https://github.com/ansible-community/awx-tui/pull/35) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+4. ℹ️ Assigned PR [#35](https://github.com/ansible-community/awx-tui/pull/35) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+5. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4344602323) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
