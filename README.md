@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4345884548) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-2. ℹ️ Labeled PR [#34](https://github.com/ansible-community/awx-tui/pull/34) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-3. ℹ️ Labeled PR [#35](https://github.com/ansible-community/awx-tui/pull/35) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-4. ℹ️ Assigned PR [#35](https://github.com/ansible-community/awx-tui/pull/35) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
-5. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4344602323) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+1. 🚀 Published release [Hermes on Hetzner 0.1.0](https://github.com/dbrennand/hermes-on-hetzner/releases/tag/0.1.0) in [dbrennand/hermes-on-hetzner](https://github.com/dbrennand/hermes-on-hetzner)
+2. 🎉 Merged PR [#1](https://github.com/dbrennand/hermes-on-hetzner/pull/1) in [dbrennand/hermes-on-hetzner](https://github.com/dbrennand/hermes-on-hetzner)
+3. 💪 Opened PR [#1](https://github.com/dbrennand/hermes-on-hetzner/pull/1) in [dbrennand/hermes-on-hetzner](https://github.com/dbrennand/hermes-on-hetzner)
+4. 🗣 Commented on [#35](https://github.com/ansible-community/awx-tui/pull/35#issuecomment-4345884548) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
+5. ℹ️ Labeled PR [#34](https://github.com/ansible-community/awx-tui/pull/34) in [ansible-community/awx-tui](https://github.com/ansible-community/awx-tui)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
