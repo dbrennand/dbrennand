@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/dbrennand/dbrennand.github.io/pull/32) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-2. 💪 Opened PR [#32](https://github.com/dbrennand/dbrennand.github.io/pull/32) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
-3. 💪 Opened PR [#3654](https://github.com/ansible/ansible-documentation/pull/3654) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-4. ℹ️ Assigned PR [#3654](https://github.com/ansible/ansible-documentation/pull/3654) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-5. ℹ️ Labeled issue [#42](https://github.com/ansible-collections/community.beszel/issues/42) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 🗣 Commented on [#3654](https://github.com/ansible/ansible-documentation/pull/3654#issuecomment-4395544352) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
+2. 🎉 Merged PR [#32](https://github.com/dbrennand/dbrennand.github.io/pull/32) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+3. 💪 Opened PR [#32](https://github.com/dbrennand/dbrennand.github.io/pull/32) in [dbrennand/dbrennand.github.io](https://github.com/dbrennand/dbrennand.github.io)
+4. 💪 Opened PR [#3654](https://github.com/ansible/ansible-documentation/pull/3654) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
+5. ℹ️ Assigned PR [#3654](https://github.com/ansible/ansible-documentation/pull/3654) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
