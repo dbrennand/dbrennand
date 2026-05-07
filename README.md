@@ -18,11 +18,11 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#42](https://github.com/ansible-collections/community.beszel/issues/42) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-2. 🎉 Merged PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-3. ℹ️ Labeled PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-4. ℹ️ Assigned PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
-5. 💪 Opened PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+1. 💪 Opened PR [#811](https://github.com/ansible/ansible-builder/pull/811) in [ansible/ansible-builder](https://github.com/ansible/ansible-builder)
+2. 🔒 Closed issue [#42](https://github.com/ansible-collections/community.beszel/issues/42) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+3. 🎉 Merged PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+4. ℹ️ Labeled PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
+5. ℹ️ Assigned PR [#43](https://github.com/ansible-collections/community.beszel/pull/43) in [ansible-collections/community.beszel](https://github.com/ansible-collections/community.beszel)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
