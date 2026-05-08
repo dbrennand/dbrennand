@@ -1,9 +1,11 @@
 # https://github.com/gautamkrishnar/blog-post-workflow#how-to-use
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
+  schedule:
+    # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
@@ -11,9 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        with:
+          persist-credentials: false
+
       - name: Pull blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597
         with:
           feed_list: "https://dbren.uk/blog/index.xml"
           max_post_count: 4
