@@ -22,6 +22,8 @@ Come hang out with me and the rest of the Ansible Community on the [Ansible foru
 <!-- BLOG-POST-LIST:START -->
 - [Argus: My personal AI assistant powered by Hermes Agent](https://dbren.uk/blog/hermes-agent/)
 - [Becoming an Ansible Collection Maintainer: community.beszel](https://dbren.uk/blog/ansible-collections-community-beszel/)
+- [Ansible Meetup 5 June 2025](https://dbren.uk/blog/ansible-meetup-5-june/)
+- [Home-Ops | AWX and Ansible Execution Environments](https://dbren.uk/blog/homeops-ansible-ee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
